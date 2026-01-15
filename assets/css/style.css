@@ -133,6 +133,10 @@ body {
   filter: brightness(0) invert(1);
 }
 
+.affiliation-logos img.colored {
+  filter: none;
+}
+
 .institution a,
 .lab a,
 .team a {
