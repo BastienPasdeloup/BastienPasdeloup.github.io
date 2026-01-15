@@ -4,91 +4,82 @@ title: Home
 ---
 
 <div class="page-header">
-  <h1>Welcome!</h1>
-  <p class="subtitle">Researcher in Artificial Intelligence & Signal Processing</p>
+  <h1>Bastien Pasdeloup</h1>
+  <p class="subtitle">Associate Professor (Maître de Conférences)</p>
 </div>
 
-<div class="highlight-box">
-  <p>I am an <strong>Associate Professor (Maître de Conférences)</strong> at <a href="https://www.imt-atlantique.fr/" target="_blank">IMT Atlantique</a> (Brest, France), member of the <a href="https://www.imt-atlantique.fr/fr/recherche-innovation/equipe/brain" target="_blank"><strong>BRAIN</strong></a> (BRoader Artificial Intelligence) research team within the <a href="https://labsticc.fr/" target="_blank">Lab-STICC</a> laboratory (CNRS UMR 6285).</p>
-</div>
+I am an Associate Professor at [IMT Atlantique](https://www.imt-atlantique.fr/) (Brest, France), member of the [BRAIN](https://www.imt-atlantique.fr/fr/recherche-innovation/equipe/brain) research team within the [Lab-STICC](https://labsticc.fr/) laboratory (CNRS UMR 6285).
 
-## Research Focus
+My research lies at the intersection of **Artificial Intelligence**, **Deep Learning**, and **Signal Processing**, with applications in healthcare. I focus on both fundamental aspects of models and their deployment in clinical settings.
 
-My research explores key questions at the intersection of **Artificial Intelligence**, **Deep Learning**, and **Signal Processing**. I work on both fundamental aspects of AI models and their applications in healthcare.
+## Research Interests
 
-<div class="interests-grid">
-  <div class="interest-item">
-    <div class="interest-icon">
-      <i class="fas fa-seedling"></i>
-    </div>
-    <div class="interest-content">
-      <h3>Frugal AI & Few-Shot Learning</h3>
-      <p>Efficient learning with limited data, diversity-driven approaches (ANR JCJC ENDIVE project)</p>
-    </div>
-  </div>
-  
-  <div class="interest-item">
-    <div class="interest-icon">
-      <i class="fas fa-brain"></i>
-    </div>
-    <div class="interest-content">
-      <h3>Foundation Models</h3>
-      <p>Large-scale pre-trained models, EEG foundation models (REVE @ NeurIPS 2025), LLMs</p>
-    </div>
-  </div>
-  
-  <div class="interest-item">
-    <div class="interest-icon">
-      <i class="fas fa-heartbeat"></i>
-    </div>
-    <div class="interest-content">
-      <h3>AI for Healthcare</h3>
-      <p>Cardiology, neurology, oncology — multimodal medical data integration</p>
-    </div>
-  </div>
-  
-  <div class="interest-item">
-    <div class="interest-icon">
-      <i class="fas fa-project-diagram"></i>
-    </div>
-    <div class="interest-content">
-      <h3>Graph Signal Processing</h3>
-      <p>Signal analysis on irregular domains, graph neural networks, neuroimaging</p>
-    </div>
-  </div>
-</div>
+- **Few-Shot Learning & Frugal AI** — Learning with limited labeled data, diversity-driven approaches
+- **Foundation Models** — Large-scale pre-trained models for EEG, language, and multimodal data
+- **AI for Healthcare** — Cardiology, neurology, oncology — multimodal medical data integration
+- **Graph Signal Processing** — Signal analysis on irregular domains, neuroimaging applications
 
-## News
+## Current Projects
 
-- 🏆 **NeurIPS 2025** — [REVE](https://github.com/brain-bzh/REVE): A Foundation Model for EEG, pre-trained on 25,000+ subjects
-- 🎯 **ANR JCJC** — PI of the [ENDIVE](https://anr.fr/Projet-ANR-23-CE23-0030) project: *Encouraging Diversity in Few-Shot Learning* (2024-2028)
-- 🏥 **Horizon Europe** — Participating in the STRATIFY project on stroke patient care using AI & digital twins
-- 🎓 **Teaching** — Responsible for the Data Science Track at IMT Atlantique
+- **ANR JCJC ENDIVE** (2024–2028) — *Encouraging Diversity in Few-Shot Learning*, PI
+- **Horizon Europe STRATIFY** (2022–2026) — AI & digital twins for stroke patient care
+- **Sony Research Partnership** (2022–2026) — Few-shot learning research collaboration
 
-## Quick Stats
+## Supervised Students
 
-<div class="card-grid">
-  <div class="card" style="text-align: center;">
-    <h3 style="font-size: 2.5rem; color: var(--color-primary); margin: 0;">8</h3>
-    <p style="margin: 0;">PhD Students<br><small>(5 defended)</small></p>
-  </div>
-  <div class="card" style="text-align: center;">
-    <h3 style="font-size: 2.5rem; color: var(--color-primary); margin: 0;">40+</h3>
-    <p style="margin: 0;">Publications</p>
-  </div>
-  <div class="card" style="text-align: center;">
-    <h3 style="font-size: 2.5rem; color: var(--color-primary); margin: 0;">12</h3>
-    <p style="margin: 0;">Funded Projects<br><small>(PI/co-PI)</small></p>
-  </div>
-</div>
+### PhD Students
 
-## Technical Skills
+| Name | Topic | Period |
+|------|-------|--------|
+| Nolan Sisouphanthong | Diffusion Models for Language | 2025– |
+| Joshua Chaz Rivera | Diffusion-Based LLMs | 2025– |
+| Jonathan Lys | LLMs & Diversity | 2024– |
+| Dubon Rodrigue | AI for District Heating Networks | 2022–2025 |
+| Yassine El Ouahidi | Deep Learning for BCI | 2022–2025 |
+| Yassir Bendou | Few-Shot Image Classification | 2021–2024 |
+| Fred Michael Gonsalves | ML for Cruise Ship Energy Efficiency | 2020–2023 |
+| Maryam Karimi-Mamaghan | Metaheuristics & ML Hybridization | 2019–2022 |
 
-<div class="tech-stack">
-  <span class="tech-badge"><i class="fab fa-python"></i> Python</span>
-  <span class="tech-badge"><i class="fas fa-fire"></i> PyTorch</span>
-  <span class="tech-badge"><i class="fas fa-book"></i> Jupyter</span>
-  <span class="tech-badge"><i class="fas fa-chart-line"></i> NumPy/SciPy</span>
-  <span class="tech-badge"><i class="fab fa-git-alt"></i> Git</span>
-  <span class="tech-badge"><i class="fas fa-file-alt"></i> LaTeX</span>
-</div>
+### Medical Doctorates
+
+| Name | Topic | Year |
+|------|-------|------|
+| Yahia Bellouche | CTEPH Prediction & Coronary Analysis | 2026 |
+| Amine El Ouahidi | TAVI Pacemaker Implantation Prediction | 2023 |
+| Victor Quéré | Stroke Mortality Prediction | 2021 |
+
+### Post-Doctoral Researchers
+
+| Name | Topic | Period |
+|------|-------|--------|
+| Mohamed Amine Sadikine | Stroke Risk Prediction | 2025–2027 |
+| Hafsa El Hafyani | Few-Shot Learning | 2022–2023 |
+| Benham Vahdani | RF Component Design with AI | 2020 |
+| Mounia Hamidouche | Graph-Based Classification | 2020 |
+
+### Research Engineers
+
+| Name | Period |
+|------|--------|
+| Manon Renault | 2023–2025 |
+| Mervyn Guillou | 2021–2023 |
+
+### Master Interns (≥4 months)
+
+Anatole Lehé (2023–24), Nathan Darjana (2022), Amine El Ouahidi (2022), Victor Quéré (2020), Matis Feller (2020), Ali Dadras (2018), and 17 additional short-term interns (2015–2024).
+
+## Selected Publications
+
+- **[NeurIPS 2025]** Y. El Ouahidi et al., *REVE: A Foundation Model for EEG*
+- **[TMLR 2024]** Y. Bendou et al., *EASY: State-of-the-Art Few-Shot Classification*
+- **[EJOR 2023]** M. Karimi-Mamaghan et al., *Q-Learning in Iterated Greedy for Scheduling*
+- **[IEEE TNSRE 2024]** Y. El Ouahidi et al., *Deep Learning Baseline for BCI Motor Imagery*
+- **[Scientific Reports 2024]** A. El Ouahidi et al., *ML for Pacemaker Prediction After TAVI*
+
+→ [Full publication list](/research) • [Google Scholar](https://scholar.google.com/citations?user=dKOgoG4AAAAJ)
+
+## Contact
+
+📧 bastien.pasdeloup@imt-atlantique.fr  
+📞 +33 2 29 00 15 65  
+📍 IMT Atlantique, Technopôle Brest-Iroise, 29238 Brest, France
