@@ -5,20 +5,15 @@ title: Research
 
 <div class="page-header">
   <h1>Research</h1>
-  <p class="subtitle">Publications and research projects</p>
+  <p class="subtitle">Publications, projects, and supervisions</p>
 </div>
 
 ## Research Overview
 
-I am a member of the **[BRAIN](https://www.imt-atlantique.fr/fr/recherche-innovation/equipe/brain)** (BRoader Artificial Intelligence) research team. My research lies at the intersection of **signal processing** and **machine learning**, with a particular focus on:
-
-- **Frugal AI** — Finding efficient representations in low-data regimes (few-shot learning)
-- **AI Compression** — Reducing computational and energy demands of AI systems for embedded applications
-- **Geometry & AI** — Exploiting geometry of latent spaces and input domains for better AI adaptation
-- **Graph Signal Processing** — Extending classical operators to irregular domains
+My research focuses on modern AI technologies, from fundamental model development to healthcare applications. I identify major AI trends and adapt them for domains underserved by major industry players, particularly in health.
 
 <div class="highlight-box">
-  <p>🔬 Our team collaborates with <strong>Mila</strong>, <strong>University of Southern California</strong>, <strong>University of Rochester</strong>, and <strong>INRIA EMPENN</strong> on neuroimaging and cognitive neuroscience applications.</p>
+  <p>🎯 <strong>Current focus:</strong> Developing a <em>flexible multimodal foundation model for healthcare</em>, capable of integrating diverse medical data (imaging, time series, clinical notes, genomics) while handling missing modalities.</p>
 </div>
 
 ## Publications
@@ -26,12 +21,12 @@ I am a member of the **[BRAIN](https://www.imt-atlantique.fr/fr/recherche-innova
 <div class="card" style="margin: 1.5rem 0; padding: 0; overflow: hidden;">
   <iframe 
     src="https://scholar.google.com/citations?user=dKOgoG4AAAAJ&hl=en" 
-    style="width: 100%; height: 600px; border: none;"
+    style="width: 100%; height: 500px; border: none;"
     title="Google Scholar Profile">
   </iframe>
 </div>
 
-<p style="text-align: center; margin: 1rem 0;">
+<p style="text-align: center;">
   <a href="https://scholar.google.com/citations?user=dKOgoG4AAAAJ" target="_blank" class="publication-link" style="display: inline-flex;">
     <i class="fas fa-external-link-alt"></i> Open in Google Scholar
   </a>
@@ -39,74 +34,134 @@ I am a member of the **[BRAIN](https://www.imt-atlantique.fr/fr/recherche-innova
 
 ## Research Themes
 
-### Graph Signal Processing & Neural Networks
+### 🌱 Few-Shot Learning & Diversity (ANR JCJC ENDIVE)
 
-Extending classical signal processing operations (convolutions, translations) to graph-structured data. This enables applying powerful CNN architectures to irregular domains, opening new possibilities for analyzing data with complex underlying structures.
+I lead the ANR JCJC project **ENDIVE** (2024-2028, ~294k€) exploring how **diversity** can improve learning with limited data:
 
-**Key contributions:**
-- Translation operators preserving neighborhood structures on graphs
-- Graph inference methods for CNN adaptation to irregular domains
-- Applications to image classification and neuroimaging
+- **Data axis**: Quantifying dataset similarity, optimal sample selection, identifying relevant data portions
+- **Embedding axis**: Selecting informative representations, multi-context embeddings, model ensemble selection
 
-<div class="publication-links" style="margin-top: 1rem;">
-  <a href="https://github.com/BastienPasdeloup/icassp2018" class="publication-link">
-    <i class="fab fa-github"></i> ICASSP 2018
-  </a>
-  <a href="https://github.com/BastienPasdeloup/graph_translations" class="publication-link">
-    <i class="fab fa-github"></i> Graph Translations
+Using **Determinantal Point Processes (DPPs)** to enable diversity-aware sampling with mathematical guarantees.
+
+<div class="publication-links">
+  <a href="https://anr.fr/Projet-ANR-23-CE23-0030" class="publication-link" target="_blank">
+    <i class="fas fa-external-link-alt"></i> ANR Project Page
   </a>
 </div>
 
-### Audio & Music Processing
+### 🧠 Foundation Models
 
-Developing methods for analyzing audio content using signal processing and machine learning:
+**REVE: A Foundation Model for EEG** (NeurIPS 2025)
+- Largest EEG corpus to date: **60,000+ hours**, **25,000+ subjects**, **92 datasets**
+- State-of-the-art on **10 tasks** with minimal or no adaptation
+- Challenges the need for task-specific models in BCI
 
-- **Automatic Speech Recognition for Extreme Vocals** — Transcribing extreme vocal styles (metal music) where traditional ASR fails
-- **Music Information Retrieval** — Rhythm analysis, lyrics intelligibility, audio feature extraction
-- **Bioacoustics** — Few-shot bioacoustic event detection (DCASE Challenge)
-
-<div class="publication-links" style="margin-top: 1rem;">
-  <a href="https://github.com/BastienPasdeloup/extreme_vocals_asr" class="publication-link">
-    <i class="fab fa-github"></i> Extreme Vocals ASR
+<div class="publication-links">
+  <a href="https://github.com/brain-bzh/REVE" class="publication-link" target="_blank">
+    <i class="fab fa-github"></i> Code
   </a>
 </div>
 
-### Neuroimaging & Cognitive Neuroscience
+**Large Language Models**
+- Diffusion-based LLMs for faster generation and parallel demasking
+- Diversity integration during response generation
+- 3 ongoing PhD projects on LLM architectures and reasoning
 
-Applying graph signal processing to neuroimaging data for:
-- Brain-computer interfaces and neurofeedback
-- Cognitive neuroscience with the [CoCoLab (Karim Jerbi)](http://www.karimjerbi.com/)
-- Collaboration with [EMPENN (INRIA)](https://team.inria.fr/empenn/)
+### 🏥 AI for Healthcare
 
-## Open Source Code
+Collaborations with medical specialists on real clinical problems:
 
-All code associated with my publications is publicly available:
+**Cardiology** (CHU Brest, CHU Paris)
+- TAVI pacemaker implantation prediction using multimodal imaging [J5]
+- Intensive care unit risk scoring with ML [J10]
+- Coronary syndrome analysis via AI-assisted vascular segmentation [J8]
+- CTEPH early prediction from blood flow data [J9]
+
+**Neurology** (CHU Brest, Horizon Europe STRATIFY)
+- 30-day mortality prediction after stroke [T2]
+- Stroke recurrence risk prediction
+- Long-term resilience diagnosis
+
+**Oncology** (EPFL/CHUV)
+- Optimal transport distances for patient similarity based on lymphocyte distribution in tumors [C12]
+- Precision medicine approaches
+
+### 📊 Graph Signal Processing
+
+My PhD work extended signal processing to irregular domains modeled by graphs:
+- **Graph inference** from diffused signals [J1]
+- **Uncertainty principle** on graphs [B1]
+- **Translation operators** for Graph CNNs [C4, C7]
+- Applications to **fMRI** and **EEG** data [C8, C18, C19]
+
+## Funded Projects (PI/co-PI)
+
+| Project | Funding | Period | Amount |
+|---------|---------|--------|--------|
+| **ENDIVE** — Encouraging Diversity in Few-Shot Learning | ANR JCJC | 2024-2028 | ~294k€ |
+| **Sony Research Partnership** | Private | 2022-2026 | ~240k€ |
+| **Autonomous Pack** — AI for Logistics | ADEME | 2023-2026 | ~260k€ |
+| **ASTRID** — AI for Heterogeneous Component Fusion | ANR | 2022-2023 | ~142k€ |
+| **Few-Shot Learning for BCI** | Région Bretagne + ANR | 2021-2024 | ~106k€ |
+| **Futur & Ruptures** — Few-Shot Labeling | Fondation Mines-Télécom | 2021-2024 | ~108k€ |
+
+## Supervisions
+
+### PhD Students
+
+| Student | Topic | Period | Status |
+|---------|-------|--------|--------|
+| Maryam Karimi-Mamaghan | Hybridizing Metaheuristics with ML | 2019-2022 | ✅ Defended |
+| Fred Michael Gonsalves | ML for Cruise Ship Energy Efficiency | 2020-2023 | ✅ Defended |
+| Yassir Bendou | Few-Shot Image Classification | 2021-2024 | ✅ Defended |
+| Yassine El Ouahidi | Deep Learning for BCI | 2022-2025 | ✅ Defended |
+| Dubon Rodrigue | AI for District Heating Networks | 2022-2025 | ✅ Defended |
+| Jonathan Lys | LLMs & Diversity | 2024-2027 | 🔄 Ongoing |
+| Joshua Chaz Rivera | Diffusion-Based LLMs | 2025-2028 | 🔄 Ongoing |
+| Nolan Sisouphanthong | Diffusion Models for Language | 2025-2028 | 🆕 Starting |
+
+### Medical Doctorates (MD)
+
+| Student | Topic | Status |
+|---------|-------|--------|
+| Victor Quéré | Stroke Mortality Prediction | ✅ 2021 |
+| Amine El Ouahidi | TAVI Pacemaker Prediction | ✅ 2023 |
+| Yahia Bellouche | Cardiology & CTEPH | 🔄 2026 |
+
+### Post-Docs & Research Engineers
+
+- **4 Post-Docs** supervised (2020-2027)
+- **2 Research Engineers** (2021-2025)
+- **23+ Interns** (Master & Bachelor level)
+
+## Open Source
+
+All publication code is available on GitHub:
 
 <div class="card-grid">
   <div class="card">
-    <h3><i class="fab fa-github"></i> icassp2018</h3>
-    <p>CNN on irregular domains through graph inference</p>
-    <a href="https://github.com/BastienPasdeloup/icassp2018">View Repository →</a>
+    <h3><i class="fab fa-github"></i> REVE</h3>
+    <p>Foundation model for EEG (NeurIPS 2025)</p>
+    <a href="https://github.com/brain-bzh/REVE">View Repository →</a>
   </div>
   
   <div class="card">
-    <h3><i class="fab fa-github"></i> graph_translations</h3>
-    <p>Translation operator on graphs</p>
+    <h3><i class="fab fa-github"></i> EASY</h3>
+    <p>State-of-the-art Few-Shot Classification</p>
+    <a href="https://github.com/ybendou/easy">View Repository →</a>
+  </div>
+  
+  <div class="card">
+    <h3><i class="fab fa-github"></i> Graph Translations</h3>
+    <p>Translation operators on graphs</p>
     <a href="https://github.com/BastienPasdeloup/graph_translations">View Repository →</a>
-  </div>
-  
-  <div class="card">
-    <h3><i class="fab fa-github"></i> extreme_vocals_asr</h3>
-    <p>ASR for extreme vocal styles</p>
-    <a href="https://github.com/BastienPasdeloup/extreme_vocals_asr">View Repository →</a>
   </div>
 </div>
 
-## Team Achievements
+## Academic Service
 
-Recent highlights from the BRAIN team:
+**Reviewing**: IEEE TSP, IEEE SPL, IEEE TSIPN, Elsevier Signal Processing, EURASIP, GRETSI, ACM Sigmetrics, Oxford Bioinformatics, ANR JCJC committee
 
-- 🏆 **NeurIPS 2025** — REVE: A Foundation Model for EEG
-- 🏆 **CVPR 2025** — [ProKeR](https://ybendou.github.io/ProKeR/): Kernel Perspective on Few-Shot Adaptation
-- 🥈 **DCASE 2023** — Ranked #2 + Jury Prize in Few-shot Bioacoustic Event Detection
-- 🏆 **AMD Open Hardware 2023** — Winners with [PEFSL](https://github.com/brain-bzh/PEFSL) project
+**Event Organization**: GSP Workshop (2018), GdR ISIS Day (2019), Foundation Day (2024), Few-Shot Learning Workshop (2024)
+
+**Invited Talks**: EPFL, ENS Lyon, CRIStAL, GIPSA-Lab, Inria, Université de Nantes

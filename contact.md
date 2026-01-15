@@ -23,6 +23,16 @@ I'm always happy to discuss research collaborations, student projects, or any qu
     </div>
   </a>
   
+  <a class="contact-item" style="cursor: default;">
+    <div class="contact-icon">
+      <i class="fas fa-phone"></i>
+    </div>
+    <div class="contact-details">
+      <h3>Phone</h3>
+      <p>+33 2 29 00 15 65</p>
+    </div>
+  </a>
+  
   <a href="https://www.imt-atlantique.fr/" target="_blank" class="contact-item">
     <div class="contact-icon">
       <i class="fas fa-building"></i>
@@ -30,6 +40,16 @@ I'm always happy to discuss research collaborations, student projects, or any qu
     <div class="contact-details">
       <h3>Institution</h3>
       <p>IMT Atlantique, Brest, France</p>
+    </div>
+  </a>
+  
+  <a href="https://www.imt-atlantique.fr/fr/recherche-innovation/equipe/brain" target="_blank" class="contact-item">
+    <div class="contact-icon">
+      <i class="fas fa-users"></i>
+    </div>
+    <div class="contact-details">
+      <h3>Research Team</h3>
+      <p>BRAIN (BRoader AI)</p>
     </div>
   </a>
   
