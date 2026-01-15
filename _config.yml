@@ -1,0 +1,34 @@
+title: Bastien Pasdeloup
+description: Researcher at IMT Atlantique | Signal Processing on Graphs | Machine Learning
+url: "https://bastienpasdeloup.github.io"
+baseurl: ""
+
+# Theme settings
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Author info
+author:
+  name: Bastien Pasdeloup
+  email: bastien.pasdeloup@imt-atlantique.fr
+
+# Navigation
+nav:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research
+  - title: Teaching
+    url: /teaching
+  - title: Contact
+    url: /contact
+
+# Social links
+scholar: https://scholar.google.com/citations?user=dKOgoG4AAAAJ
+linkedin: https://fr.linkedin.com/in/bastien-pasdeloup
+github: https://github.com/BastienPasdeloup
+
+# Build settings
+markdown: kramdown
+highlighter: rouge

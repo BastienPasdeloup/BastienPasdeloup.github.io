@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <div class="layout">
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <div class="sidebar-content">
+        <div class="profile">
+          <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Bastien Pasdeloup" class="profile-photo" onerror="this.src='https://ui-avatars.com/api/?name=Bastien+Pasdeloup&size=150&background=3b82f6&color=fff&bold=true'">
+          <h1 class="name">Bastien Pasdeloup</h1>
+          <p class="title">Researcher & Educator</p>
+          <p class="institution">
+            <a href="https://www.imt-atlantique.fr/" target="_blank">IMT Atlantique</a>
+          </p>
+          <p class="lab">
+            <a href="https://labsticc.fr/" target="_blank">Lab-STICC</a>
+          </p>
+        </div>
+        
+        <nav class="nav">
+          {% for item in site.nav %}
+          <a href="{{ item.url | relative_url }}" class="nav-link {% if page.url == item.url %}active{% endif %}">
+            {{ item.title }}
+          </a>
+          {% endfor %}
+        </nav>
+        
+        <div class="social-links">
+          <a href="{{ site.scholar }}" target="_blank" title="Google Scholar">
+            <i class="fas fa-graduation-cap"></i>
+          </a>
+          <a href="{{ site.linkedin }}" target="_blank" title="LinkedIn">
+            <i class="fab fa-linkedin"></i>
+          </a>
+          <a href="{{ site.github }}" target="_blank" title="GitHub">
+            <i class="fab fa-github"></i>
+          </a>
+          <a href="mailto:{{ site.author.email }}" title="Email">
+            <i class="fas fa-envelope"></i>
+          </a>
+        </div>
+      </div>
+    </aside>
+    
+    <!-- Main content -->
+    <main class="main-content">
+      <div class="content-wrapper">
+        {{ content }}
+      </div>
+    </main>
+  </div>
+  
+  <!-- Mobile navigation toggle -->
+  <button class="mobile-nav-toggle" aria-label="Toggle navigation">
+    <i class="fas fa-bars"></i>
+  </button>
+  
+  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+</body>
+</html>
