@@ -105,7 +105,8 @@ body {
 }
 
 .institution a,
-.lab a {
+.lab a,
+.team a {
   color: rgba(255, 255, 255, 0.7);
   text-decoration: none;
   font-size: 0.9rem;
@@ -113,12 +114,19 @@ body {
 }
 
 .institution a:hover,
-.lab a:hover {
+.lab a:hover,
+.team a:hover {
   color: #fff;
 }
 
-.lab {
+.lab,
+.team {
   margin-top: 0.25rem;
+}
+
+.team a {
+  color: var(--color-accent);
+  font-weight: 500;
 }
 
 /* ===== Navigation ===== */
