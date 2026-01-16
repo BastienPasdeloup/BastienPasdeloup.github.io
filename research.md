@@ -14,21 +14,21 @@ My research focuses on modern AI technologies, from fundamental model developmen
 
 My research interests include (but are not limited to):
 
-- **Few-Shot Learning** — Learning with limited labeled data
-- **Diversity in data & models** — Integrating diversity of data and model representations to improve learning
-- **Large Language Models** — Diffusion models, transformers, and multimodal architectures
-- **AI for Healthcare** — Multimodal medical data integration with possibly missing modalities
-- **Graph Signal Processing** — Signal analysis on irregular domains, neuroimaging applications
+- **Few-Shot Learning** -- Learning with limited labeled data
+- **Diversity in data & models** -- Integrating diversity of data and model representations to improve learning
+- **Large Language Models** -- Diffusion models, transformers, and multimodal architectures
+- **AI for Healthcare** -- Multimodal medical data integration with possibly missing modalities
+- **Graph Signal Processing** -- Signal analysis on irregular domains, neuroimaging applications
 
 ## Selected publications
 
-- Y. El Ouahidi, G. Moreau, V. Gripon, G. Virone, **B. Pasdeloup** et al. (2025). **REVE: A Foundation Model for EEG — Adapting to Any Setup with Large-Scale Pretraining on 25,000 Subjects**. *NeurIPS 2025*.
+- Yassine El Ouahidi, Jonathan Lys, Philipp Thölke, Nicolas Farrugia, Bastien Pasdeloup, Vincent Gripon, Karim Jerbi, and Giulia Lioi (2025). **REVE: A Foundation Model for EEG -- Adapting to Any Setup with Large-Scale Pretraining on 25,000 Subjects**. *Annual Conference on Neural Information Processing Systems (NeurIPS)*.
 
-- Y. Bendou, Y. Hu, R. Laforgue, G. Liutkus, L. Drumetz, **B. Pasdeloup** (2022). **EASY — Ensemble Augmented-Shot-Y-Shaped Learning: State-of-the-Art Few-Shot Classification with Simple Components**. *Transactions on Machine Learning Research*.
+- Yassir Bendou, Yuqing Hu, Raphael Lafargue, Giulia Lioi, Bastien Pasdeloup, Stéphane Pateux, and Vincent Gripon (2022). **EASY -- Ensemble Augmented-Shot-Y-Shaped Learning: State-of-the-Art Few-Shot Classification with Simple Components**. *Journal of Imaging*.
 
-- A. El Ouahidi, **B. Pasdeloup** et al. (2024). **Machine Learning for Pacemaker Implantation Prediction After TAVI Using Multimodal Imaging Data**. *Scientific Reports*.
+- Amine El Ouahidi, Yassine El Ouahidi, Pierre-Philippe Nicol, Sinda Hannachi, Clément Benic, Jacques Mansourati, Bastien Pasdeloup, and Romain Didier (2024). **Machine Learning for Pacemaker Implantation Prediction After TAVI Using Multimodal Imaging Data**. *Nature Scientific Reports*.
 
-- **B. Pasdeloup**, V. Gripon, G. Mercier, D. Pastor, M. G. Rabbat (2017). **Characterization and Inference of Graph Diffusion Processes from Observations of Stationary Signals**. *IEEE Transactions on Signal and Information Processing over Networks*.
+- Bastien Pasdeloup, Vincent Gripon, Grégoire Mercier, Dominique Pastor, and Michael G. Rabbat (2017). **Characterization and Inference of Graph Diffusion Processes from Observations of Stationary Signals**. *IEEE Transactions on Signal and Information Processing over Networks*.
 
 <p style="text-align: center;">
   <a href="https://scholar.google.com/citations?user=dKOgoG4AAAAJ" target="_blank" class="publication-link" style="display: inline-flex; gap: 0.5rem; align-items: center; padding: 0.75rem 1.5rem; background: var(--color-primary); color: white; border-radius: 8px; font-weight: 500;">
@@ -42,7 +42,7 @@ My research interests include (but are not limited to):
   <div class="course-card">
     <h3>🌱 ENDIVE</h3>
     <div class="course-info">ANR JCJC • 2024–2028</div>
-    <p>Encouraging Diversity in Few-Shot Learning — exploring how diversity can improve learning with limited data.</p>
+    <p>Encouraging Diversity in Few-Shot Learning -- exploring how diversity can improve learning with limited data.</p>
     <a href="https://anr.fr/Projet-ANR-23-CE23-0030" target="_blank">ANR Project Page →</a>
   </div>
   
@@ -55,13 +55,13 @@ My research interests include (but are not limited to):
   <div class="course-card">
     <h3>📦 Autonomous Pack</h3>
     <div class="course-info">ADEME • 2023–2026</div>
-    <p>AI for Logistics — embedded deep learning for autonomous tracking systems.</p>
+    <p>AI for Logistics -- embedded deep learning for autonomous tracking systems.</p>
   </div>
   
   <div class="course-card">
     <h3>🔬 FUSCHIA</h3>
     <div class="course-info">ANR ASTRID • 2022–2023</div>
-    <p>AI for Heterogeneous Component Fusion — multimodal image segmentation.</p>
+    <p>AI for Heterogeneous Component Fusion -- multimodal image segmentation.</p>
   </div>
   
   <div class="course-card">
@@ -73,7 +73,7 @@ My research interests include (but are not limited to):
   <div class="course-card">
     <h3>🚀 Futur & Ruptures</h3>
     <div class="course-info">Fondation Mines-Télécom • 2021–2024</div>
-    <p>Few-Shot Labeling — reducing the cost of dataset annotation.</p>
+    <p>Few-Shot Labeling -- reducing the cost of dataset annotation.</p>
   </div>
 </div>
 
@@ -148,9 +148,9 @@ My research interests include (but are not limited to):
 
 I regularly participate in scientific dissemination activities to promote science and research to the general public, including:
 
-- **Fête de la Science** — Annual science festival presentations on AI and machine learning
-- **Nuit des Chercheurs** — Public engagement events explaining research to general audiences
-- **School Visits** — AI introduction workshops for primary and secondary school students
+- **Fête de la Science** -- Annual science festival presentations on AI and machine learning
+- **Nuit des Chercheurs** -- Public engagement events explaining research to general audiences
+- **School Visits** -- AI introduction workshops for primary and secondary school students
 
 ## Academic Service
 

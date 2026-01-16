@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="notice" style="background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem 1.5rem; margin-bottom: 2rem; color: #92400e;">
-  <strong>🚧 Under Construction</strong> — This website is currently being built. Some sections may be incomplete or subject to change.
+  <strong>🚧 Under Construction</strong> -- This website is currently being built. Some sections may be incomplete or subject to change.
 </div>
 
 <div class="page-header">

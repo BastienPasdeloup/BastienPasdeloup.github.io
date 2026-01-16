@@ -47,7 +47,7 @@ I believe in **learning by doing**. My approach emphasizes hands-on projects, in
 ## Featured Project: PyRat 🐀
 
 <div class="card" style="margin: 2rem 0; border-left: 4px solid var(--color-primary);">
-  <h3>🎮 PyRat — Learn Algorithms Through Gaming</h3>
+  <h3>🎮 PyRat -- Learn Algorithms Through Gaming</h3>
   <p><strong>PyRat</strong> is an educational platform I created to teach programming and algorithms at IMT Atlantique. Students learn by programming AI agents that compete in a maze game to collect cheese!</p>
   
   <p><strong>Impact:</strong></p>
@@ -116,10 +116,10 @@ I believe in **learning by doing**. My approach emphasizes hands-on projects, in
 
 I welcome motivated students interested in:
 
-- 🤖 **AI & Machine Learning** — Few-shot learning, LLMs, foundation models
-- 🧠 **Neuroimaging** — EEG/fMRI analysis, brain-computer interfaces
-- 🏥 **Healthcare AI** — Medical image analysis, clinical prediction
-- 📊 **Data Science** — Time series, optimization, decision support
+- 🤖 **AI & Machine Learning** -- Few-shot learning, LLMs, foundation models
+- 🧠 **Neuroimaging** -- EEG/fMRI analysis, brain-computer interfaces
+- 🏥 **Healthcare AI** -- Medical image analysis, clinical prediction
+- 📊 **Data Science** -- Time series, optimization, decision support
 
 <div class="highlight-box">
   <p>📧 <strong>Interested in working with me?</strong> If you're looking for an internship, PhD position, or project supervision, feel free to <a href="/contact">contact me</a> with your CV and research interests!</p>
@@ -129,9 +129,9 @@ I welcome motivated students interested in:
 
 I am committed to sharing scientific knowledge with the public:
 
-- 🌙 **Nuit Européenne des Chercheur·e·s** — Annual participation since 2019
-- 🔬 **Fête de la Science** — Participation since 2024
-- 🏫 **Une Chercheure à l'École** — Workshops in 9 CM1/CM2 classes across 7 schools in Finistère (2025)
+- 🌙 **Nuit Européenne des Chercheur·e·s** -- Annual participation since 2019
+- 🔬 **Fête de la Science** -- Participation since 2024
+- 🏫 **Une Chercheure à l'École** -- Workshops in 9 CM1/CM2 classes across 7 schools in Finistère (2025)
 
 ## Teaching Volume
 

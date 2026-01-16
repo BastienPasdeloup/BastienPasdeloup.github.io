@@ -110,9 +110,9 @@ I'm always happy to discuss research collaborations, student projects, or any qu
 
 I am open to collaborations in the following areas:
 
-- **Graph Signal Processing** — Novel operators, applications, and theoretical foundations
-- **Machine Learning** — Deep learning on irregular domains, audio/music applications
-- **Educational Technology** — Innovative tools for teaching computer science
+- **Graph Signal Processing** -- Novel operators, applications, and theoretical foundations
+- **Machine Learning** -- Deep learning on irregular domains, audio/music applications
+- **Educational Technology** -- Innovative tools for teaching computer science
 
 <div class="highlight-box">
   <p>🎓 <strong>For Students:</strong> If you're interested in an internship or thesis supervision in signal processing, machine learning, or audio analysis, please send me an email with your CV and a brief description of your interests.</p>
