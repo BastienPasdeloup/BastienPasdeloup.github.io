@@ -12,7 +12,23 @@ title: Research
 
 My research focuses on modern AI technologies, from fundamental model development to healthcare applications. I identify major AI trends and adapt them for domains underserved by major industry players, particularly in health.
 
-## Publications
+My research interests include (but are not limited to):
+
+- **Few-Shot Learning** — Learning with limited labeled data
+- **Diversity in data & models** — Integrating diversity of data and model representations to improve learning
+- **Large Language Models** — Diffusion models, transformers, and multimodal architectures
+- **AI for Healthcare** — Multimodal medical data integration with possibly missing modalities
+- **Graph Signal Processing** — Signal analysis on irregular domains, neuroimaging applications
+
+## Selected publications
+
+- Y. El Ouahidi, G. Moreau, V. Gripon, G. Virone, **B. Pasdeloup** et al. (2025). **REVE: A Foundation Model for EEG — Adapting to Any Setup with Large-Scale Pretraining on 25,000 Subjects**. *NeurIPS 2025*.
+
+- Y. Bendou, Y. Hu, R. Laforgue, G. Liutkus, L. Drumetz, **B. Pasdeloup** (2022). **EASY — Ensemble Augmented-Shot-Y-Shaped Learning: State-of-the-Art Few-Shot Classification with Simple Components**. *Transactions on Machine Learning Research*.
+
+- A. El Ouahidi, **B. Pasdeloup** et al. (2024). **Machine Learning for Pacemaker Implantation Prediction After TAVI Using Multimodal Imaging Data**. *Scientific Reports*.
+
+- **B. Pasdeloup**, V. Gripon, G. Mercier, D. Pastor, M. G. Rabbat (2017). **Characterization and Inference of Graph Diffusion Processes from Observations of Stationary Signals**. *IEEE Transactions on Signal and Information Processing over Networks*.
 
 Full publication list available on my Google Scholar profile:
 
@@ -22,36 +38,46 @@ Full publication list available on my Google Scholar profile:
   </a>
 </p>
 
-## Research Themes
-
-- **Few-Shot Learning** — Learning with limited labeled data
-- **Diversity in data & models** — Integrating diversity of data and model representations to improve learning
-- **Large Language Models** — Diffusion models, transformers, and multimodal architectures
-- **AI for Healthcare** — Multimodal medical data integration with possibly missing modalities
-- **Graph Signal Processing** — Signal analysis on irregular domains, neuroimaging applications
-
-## Selected Publications
-
-- Y. El Ouahidi, P. music music music music music music music music, B. Pasdeloup et al. (2025). **REVE: A Foundation Model for EEG — Adapting to Any Setup with Large-Scale Pretraining on 25,000 Subjects**. *NeurIPS 2025*. [<i class="fab fa-github"></i>](https://github.com/brain-bzh/REVE)
-
-- Y. Bendou, Y. Hu, R. Laforgue, G. Liutkus, L. Drumetz, B. Pasdeloup (2022). **EASY — Ensemble Augmented-Shot-Y-Shaped Learning: State-of-the-Art Few-Shot Classification with Simple Components**. *Transactions on Machine Learning Research*. [<i class="fab fa-github"></i>](https://github.com/ybendou/easy)
-
-- A. El Ouahidi, Y. Music, B. Music, B. Pasdeloup et al. (2024). **Machine Learning for Pacemaker Implantation Prediction After TAVI Using Multimodal Imaging Data**. *Scientific Reports*.
-
-- B. Pasdeloup, V. Gripon, G. Mercier, D. Pastor, M. G. Rabbat (2017). **Characterization and Inference of Graph Diffusion Processes from Observations of Stationary Signals**. *IEEE Transactions on Signal and Information Processing over Networks*.
-
-→ [Full publication list on Google Scholar](https://scholar.google.com/citations?user=dKOgoG4AAAAJ)
-
 ## Funded Projects (PI/co-PI)
 
-| Project | Funding | Period |
-|---------|---------|--------|
-| **ENDIVE** — Encouraging Diversity in Few-Shot Learning | ANR JCJC | 2024–2028 |
-| **Sony Research Partnership** | Private | 2022–2026 |
-| **Autonomous Pack** — AI for Logistics | ADEME | 2023–2026 |
-| **FUSCHIA** — AI for Heterogeneous Component Fusion | ANR ASTRID | 2022–2023 |
-| **Few-Shot Learning for BCI** | Région Bretagne + ANR | 2021–2024 |
-| **Futur & Ruptures** — Few-Shot Labeling | Fondation Mines-Télécom | 2021–2024 |
+<div class="card-grid">
+  <div class="course-card">
+    <h3>🌱 ENDIVE</h3>
+    <div class="course-info">ANR JCJC • 2024–2028</div>
+    <p>Encouraging Diversity in Few-Shot Learning — exploring how diversity can improve learning with limited data.</p>
+    <a href="https://anr.fr/Projet-ANR-23-CE23-0030" target="_blank">ANR Project Page →</a>
+  </div>
+  
+  <div class="course-card">
+    <h3>🎵 Sony Research Partnership</h3>
+    <div class="course-info">Private • 2022–2026</div>
+    <p>Few-shot learning research collaboration with Sony Research.</p>
+  </div>
+  
+  <div class="course-card">
+    <h3>📦 Autonomous Pack</h3>
+    <div class="course-info">ADEME • 2023–2026</div>
+    <p>AI for Logistics — embedded deep learning for autonomous tracking systems.</p>
+  </div>
+  
+  <div class="course-card">
+    <h3>🔬 FUSCHIA</h3>
+    <div class="course-info">ANR ASTRID • 2022–2023</div>
+    <p>AI for Heterogeneous Component Fusion — multimodal image segmentation.</p>
+  </div>
+  
+  <div class="course-card">
+    <h3>🧠 Few-Shot Learning for BCI</h3>
+    <div class="course-info">Région Bretagne + ANR • 2021–2024</div>
+    <p>Applying few-shot learning techniques to brain-computer interfaces.</p>
+  </div>
+  
+  <div class="course-card">
+    <h3>🚀 Futur & Ruptures</h3>
+    <div class="course-info">Fondation Mines-Télécom • 2021–2024</div>
+    <p>Few-Shot Labeling — reducing the cost of dataset annotation.</p>
+  </div>
+</div>
 
 ## Supervisions
 
@@ -120,41 +146,18 @@ Full publication list available on my Google Scholar profile:
 | Khalid Aitelamine | 2015 | Graph Signal Processing for Classification | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/khalid-aitelamine-072731107) |
 | Chiraz Nafouki | 2015 | Visualization of Signal Diffusion on Graphs | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/chiraz-nafouki-b03027a4) |
 
-## Open Source
-
-All publication code is available on GitHub:
-
-<div class="card-grid">
-  <div class="card">
-    <h3><i class="fab fa-github"></i> REVE</h3>
-    <p>Foundation model for EEG (NeurIPS 2025)</p>
-    <a href="https://github.com/brain-bzh/REVE">View Repository →</a>
-  </div>
-  
-  <div class="card">
-    <h3><i class="fab fa-github"></i> EASY</h3>
-    <p>State-of-the-art Few-Shot Classification</p>
-    <a href="https://github.com/ybendou/easy">View Repository →</a>
-  </div>
-  
-  <div class="card">
-    <h3><i class="fab fa-github"></i> Graph Translations</h3>
-    <p>Translation operators on graphs</p>
-    <a href="https://github.com/BastienPasdeloup/graph_translations">View Repository →</a>
-  </div>
-</div>
-
 ## Scientific Dissemination
+
+I regularly participate in scientific dissemination activities to promote science and research to the general public, including:
 
 - **Fête de la Science** — Annual science festival presentations on AI and machine learning
 - **Nuit des Chercheurs** — Public engagement events explaining research to general audiences
 - **School Visits** — AI introduction workshops for primary and secondary school students
-- **Les Capucins** — Public talks at Brest's cultural center
 
 ## Academic Service
 
-**Reviewing**: IEEE TSP, IEEE SPL, IEEE TSIPN, Elsevier Signal Processing, EURASIP, GRETSI, ACM Sigmetrics, Oxford Bioinformatics, ANR JCJC committee
+- **Reviewing**: IEEE TSP, IEEE SPL, IEEE TSIPN, Elsevier Signal Processing, EURASIP, GRETSI, ACM Sigmetrics, Oxford Bioinformatics, ANR JCJC committee
 
-**Event Organization**: GSP Workshop (2018), GdR ISIS Day (2019), Foundation Day (2024), Few-Shot Learning Workshop (2024)
+- **Event Organization**: GSP Workshop (2018), GdR ISIS Day (2019), Foundation Day (2024), Few-Shot Learning Workshop (2024)
 
-**Invited Talks**: EPFL, ENS Lyon, CRIStAL, GIPSA-Lab, Inria, Université de Nantes
+- **Invited Talks**: EPFL, ENS Lyon, CRIStAL, GIPSA-Lab, Inria, Université de Nantes
