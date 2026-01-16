@@ -142,11 +142,11 @@ I regularly participate in scientific dissemination activities to promote scienc
   <div class="slideshow-container">
     <div class="slide active">
       <img src="/assets/img/dissemination/amine_prix.png" alt="Prix de la recherche clinique">
-      <div class="slide-caption">Prix de la recherche clinique 2022 pour Amine El Ouahidi [[source]](https://www.letelegramme.fr/finistere/brest-29200/deux-jeunes-chercheurs-brestois-recompenses-par-un-prix-de-1-000-eur-1678452.php)</div>
+      <div class="slide-caption">Prix de la recherche clinique 2022 pour Amine El Ouahidi <a href="https://www.letelegramme.fr/finistere/brest-29200/deux-jeunes-chercheurs-brestois-recompenses-par-un-prix-de-1-000-eur-1678452.php" target="_blank">[source]</a></div>
     </div>
     <div class="slide">
       <img src="/assets/img/dissemination/bastien_gretsi.jpg" alt="Label recherche reproductible">
-      <div class="slide-caption">Label recherche reproductible au GRETSI 2025 [[source]](https://github.com/GRETSI-2025)</div>
+      <div class="slide-caption">Label recherche reproductible au GRETSI 2025 <a href="https://github.com/GRETSI-2025" target="_blank">[source]</a></div>
     </div>
   </div>
   <button class="slideshow-prev"><i class="fas fa-chevron-left"></i></button>
