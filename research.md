@@ -55,8 +55,8 @@ My research interests include (but are not limited to):
   </div>
   
   <div class="course-card">
-    <h3>FUSCHIA • Co-PI</h3>
-    <div class="course-info">ANR ASTRID</div>
+    <h3>FUSCHIA</h3>
+    <div class="course-info">ANR ASTRID • Co-PI</div>
     <div class="course-info">2022 — 2023</div>
     <p>AI for heterogeneous component fusion — Multimodal image segmentation.</p>
   </div>
@@ -104,31 +104,31 @@ My research interests include (but are not limited to):
 
 ### Interns
 
-| Name | Period | Subject | Links |
-|------|--------|---------|-------|
-| Anatole Lehé | 2023 — 2024 | DPP Sampling in Genetic Algorithms | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/anatole-leh%C3%A9-323b102a4) |
-| Jonathan Lys | 2023 | Adaptation of Segmentation Models | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=heUq7WEAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/jonathan-lys/fr) [<i class="fab fa-github"></i>](https://github.com/jonathanlys01) |
-| Frederic Lin | 2023 | Segment Anything Model Extension | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/frederic-lin-b00a63222) [<i class="fab fa-github"></i>](https://github.com/frdlin) |
-| Zakaria El Ouahidi | 2023 | Real-Time EEG Decoding for BCI | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/zakaria-el-ouahidi-76045325b) |
-| Nathan Darjana | 2022 | 3D Segmentation of CT Scanner Heart Imaging | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/nathan-darjana-67062720a) |
-| Maëlle Gabens | 2022 | Pruning for Graph Signal Sampling | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/ma%C3%ABlle-gabens-a728b2209) |
-| Amine El Ouahidi | 2022 | ML for Post-TAVI Risk Prediction | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=rAbVJGUAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/amine-el-ouahidi-9bb726240) |
-| Marc Serre | 2021 | Adversarial Classes in Few-Shot Problems | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/marc-serre-bb4480204) |
-| Gaspard Canevet | 2021 | Reinforcement Learning in Metaheuristics | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/gaspard-canevet) |
-| Victor Quéré | 2020 | ML for ICH Early Mortality Prediction | [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/victor-qu%C3%A9r%C3%A9-21502781) |
-| Matis Feller | 2020 | Study of Cell Repartition in Tumors | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/matis-feller-077a52140) |
-| Clément Ribes | 2020 | Spatio-Temporal Signals with GSP | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/clement-ribes) |
-| Yassine El Ouahidi | 2020 | Study of Cell Repartition in Tumors | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=BGZsbNgAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/elouahidi-y) [<i class="fab fa-github"></i>](https://github.com/elouayas) |
-| Ali Dadras | 2018 | Classification of Patterns in Time Series | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=49FKi3gAAAAJ) |
-| Wenqi Shu-Quartier-dit-Maire | 2018 | Classification of Cancer Types from Medical Images | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/wshuquar) |
-| Houda Abichou | 2017 | Spectral Graph Theory | |
-| Martin Dornier | 2016 | BCI for Hand Movement Classification | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.fr/citations?user=a40ixbMAAAAJ) [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/martin-dornier-465b16119) |
-| Ladislas Ducerf | 2016 | ML and GSP | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/ladislas-ducerf) |
-| Guillaume Buret | 2016 | Hacking the PyRat Platform | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/guillaume-buret-a715ab44) [<i class="fab fa-github"></i>](https://github.com/thebigtouffe) |
-| Loïc Carr | 2016 | ML for Object Recognition in Images | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/loic-carr) [<i class="fab fa-github"></i>](https://github.com/dimtion) |
-| Axel Kerinec | 2016 | Spatio-Temporal Pattern Detection | [<i class="fab fa-github"></i>](https://axelkrnc.github.io) |
-| Khalid Aitelamine | 2015 | Graph Signal Processing for Classification | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/khalid-aitelamine-072731107) |
-| Chiraz Nafouki | 2015 | Visualization of Signal Diffusion on Graphs | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/chiraz-nafouki-b03027a4) |
+| Name | Topic | Period | Links |
+|------|-------|--------|-------|
+| Anatole Lehé | DPP Sampling in Genetic Algorithms | 2023 — 2024 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/anatole-leh%C3%A9-323b102a4) |
+| Jonathan Lys | Adaptation of Segmentation Models | 2023 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=heUq7WEAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/jonathan-lys/fr) [<i class="fab fa-github"></i>](https://github.com/jonathanlys01) |
+| Frederic Lin | Segment Anything Model Extension | 2023 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/frederic-lin-b00a63222) [<i class="fab fa-github"></i>](https://github.com/frdlin) |
+| Zakaria El Ouahidi | Real-Time EEG Decoding for BCI | 2023 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/zakaria-el-ouahidi-76045325b) |
+| Nathan Darjana | 3D Segmentation of CT Scanner Heart Imaging | 2022 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/nathan-darjana-67062720a) |
+| Maëlle Gabens | Pruning for Graph Signal Sampling | 2022 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/ma%C3%ABlle-gabens-a728b2209) |
+| Amine El Ouahidi | ML for Post-TAVI Risk Prediction | 2022 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=rAbVJGUAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/amine-el-ouahidi-9bb726240) |
+| Marc Serre | Adversarial Classes in Few-Shot Problems | 2021 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/marc-serre-bb4480204) |
+| Gaspard Canevet | Reinforcement Learning in Metaheuristics | 2021 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/gaspard-canevet) |
+| Victor Quéré | ML for ICH Early Mortality Prediction | 2020 | [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/victor-qu%C3%A9r%C3%A9-21502781) |
+| Matis Feller | Study of Cell Repartition in Tumors | 2020 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/matis-feller-077a52140) |
+| Clément Ribes | Spatio-Temporal Signals with GSP | 2020 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/clement-ribes) |
+| Yassine El Ouahidi | Study of Cell Repartition in Tumors | 2020 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=BGZsbNgAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/elouahidi-y) [<i class="fab fa-github"></i>](https://github.com/elouayas) |
+| Ali Dadras | Classification of Patterns in Time Series | 2018 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=49FKi3gAAAAJ) |
+| Wenqi Shu-Quartier-dit-Maire | Classification of Cancer Types from Medical Images | 2018 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/wshuquar) |
+| Houda Abichou | Spectral Graph Theory | 2017 | |
+| Martin Dornier | BCI for Hand Movement Classification | 2016 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.fr/citations?user=a40ixbMAAAAJ) [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/martin-dornier-465b16119) |
+| Ladislas Ducerf | ML and GSP | 2016 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/ladislas-ducerf) |
+| Guillaume Buret | Hacking the PyRat Platform | 2016 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/guillaume-buret-a715ab44) [<i class="fab fa-github"></i>](https://github.com/thebigtouffe) |
+| Loïc Carr | ML for Object Recognition in Images | 2016 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/loic-carr) [<i class="fab fa-github"></i>](https://github.com/dimtion) |
+| Axel Kerinec | Spatio-Temporal Pattern Detection | 2016 | [<i class="fab fa-github"></i>](https://axelkrnc.github.io) |
+| Khalid Aitelamine | Graph Signal Processing for Classification | 2015 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/khalid-aitelamine-072731107) |
+| Chiraz Nafouki | Visualization of Signal Diffusion on Graphs | 2015 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/chiraz-nafouki-b03027a4) |
 
 ## Scientific Dissemination
 
@@ -166,15 +166,9 @@ I regularly participate in scientific dissemination activities to promote scienc
   <div class="slideshow-dots"></div>
 </div>
 
-Amine poster
-Raining Words
-Nuit des chercheurs
-Fête sciences
-Ecoles
-
 ## Academic Service
 
-- **Reviewing**: IEEE TSP, IEEE SPL, IEEE TSIPN, Elsevier Signal Processing, EURASIP, GRETSI, ACM Sigmetrics, Oxford Bioinformatics, ANR JCJC committee
+- **Reviewing**: IEEE TSP, IEEE SPL, IEEE TSIPN, Elsevier Signal Processing, EURASIP, GRETSI, ACM Sigmetrics, Oxford Bioinformatics, ANR JCJC
 
 - **Event Organization**: GSP Workshop (2018), GdR ISIS Day (2019), Foundation Day (2024), Few-Shot Learning Workshop (2024)
 

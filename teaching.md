@@ -12,8 +12,10 @@ title: Teaching
 
 I believe in **learning by doing**. My approach emphasizes hands-on projects, interactive exercises, and real-world applications. I develop educational tools that make learning engaging while building strong foundational skills.
 
+My courses cover both **technical skills** (computer science, AI, machine learning) and **scientific skills** (introduction to research, biases in data analysis).
+
 <div class="highlight-box">
-  <p>📊 Since 2015, I have taught <strong>~180 hours/year</strong> on average, covering algorithms, machine learning, signal processing, and research methodology.</p>
+  <p>📊 Since 2015, I have taught <strong>~180 hours/year</strong> on average.</p>
 </div>
 
 ## Current Responsibilities
@@ -21,26 +23,20 @@ I believe in **learning by doing**. My approach emphasizes hands-on projects, in
 <div class="card-grid">
   <div class="course-card">
     <h3>📊 Data Science Track</h3>
-    <div class="course-info">Master 1 & 2 • Since 2024</div>
+    <div class="course-info">Master 1 & 2/div>
     <p>Program coordinator for the Data Science specialization track at IMT Atlantique.</p>
   </div>
   
   <div class="course-card">
-    <h3>🖥️ Informatique</h3>
-    <div class="course-info">Licence 3 • Since 2024 • ~60h/year</div>
+    <h3>🖥️ Computer Science</h3>
+    <div class="course-info">Licence 3 • Since 2024</div>
     <p>Introduction to computer science fundamentals for third-year undergraduate students.</p>
   </div>
   
   <div class="course-card">
     <h3>📈 How to Lie with Statistics</h3>
-    <div class="course-info">Master 1 & 2 • Since 2021 • ~40h/year</div>
+    <div class="course-info">Master 1 & 2 • Since 2021</div>
     <p>Critical thinking about data visualization and statistical interpretation.</p>
-  </div>
-  
-  <div class="course-card">
-    <h3>🔬 Introduction à la Recherche</h3>
-    <div class="course-info">Master 1 & 2 • Since 2019 • ~6h/year</div>
-    <p>Research methodology and scientific approach for graduate students.</p>
   </div>
 </div>
 
@@ -69,6 +65,9 @@ I believe in **learning by doing**. My approach emphasizes hands-on projects, in
   <p><strong>Algorithms covered:</strong> BFS, DFS, Dijkstra, A*, Dynamic Programming, Greedy Algorithms, Adversarial Search</p>
   
   <div class="publication-links" style="margin-top: 1rem;">
+    <a href="https://bastienpasdeloup.github.io/PyRat" class="publication-link">
+      <i class="fas fa-book"></i> Documentation
+    </a>
     <a href="https://github.com/BastienPasdeloup/PyRat" class="publication-link">
       <i class="fab fa-github"></i> GitHub Repository
     </a>
@@ -79,28 +78,24 @@ I believe in **learning by doing**. My approach emphasizes hands-on projects, in
 
 ### Current Courses
 
-| Course | Level | Period | Hours/year |
-|--------|-------|--------|------------|
-| **Informatique** | L3 | 2024– | ~60h |
-| **Data Science Track** | M1/M2 | 2024– | ~40h |
-| **Introduction to AI** | M1/M2 | 2020– | ~40h |
-| **How to Lie with Statistics** | M1/M2 | 2021– | ~40h |
-| **Introduction à la Recherche** | M1/M2 | 2019– | ~6h |
-| **Advanced Machine Learning** | M1/M2 | 2019– | ~5h |
-| **Statistical Learning and Sparsity** | M1/M2 | 2019– | ~3h |
+- Informatique (L3)
+- Data Science Track (M1/M2)
+- Introduction to AI (M1/M2)
+- How to Lie with Statistics (M1/M2)
+- Introduction à la Recherche (M1/M2)
+- Advanced Machine Learning (M1/M2)
+- Statistical Learning and Sparsity (M1/M2)
 
 ### Past Courses
 
-| Course | Level | Period | Hours/year |
-|--------|-------|--------|------------|
-| Algorithmique & Mathématiques Discrètes | L3 | 2015–2024 | ~24-42h |
-| Fundamentals of Machine Learning | M1/M2 | 2020–2024 | ~36h |
-| Systèmes en Réseaux | L3 | 2019–2024 | ~23h |
-| Advanced Data Mining | M1/M2 | 2019–2023 | ~6h |
-| Gestion de Projet | M1/M2 | 2019–2020 | ~63h |
-| Business Intelligence | M1/M2 | 2019–2020 | ~41h |
-| Majeure Informatique | M1/M2 | 2015–2018 | ~22h |
-| Traitement du Signal | L1 | 2018–2019 | ~5h |
+- Algorithmique & Mathématiques Discrètes (L3)
+- Fundamentals of Machine Learning (M1/M2)
+- Systèmes en Réseaux (L3)
+- Advanced Data Mining (M1/M2)
+- Gestion de Projet (M1/M2)
+- Business Intelligence (M1/M2)
+- Majeure Informatique (M1/M2)
+- Traitement du Signal (L1)
 
 ## Student Supervision
 
