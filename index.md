@@ -16,17 +16,7 @@ I am an Associate Professor at [IMT Atlantique](https://www.imt-atlantique.fr/) 
 
 My research lies at the intersection of **Artificial Intelligence**, **Deep Learning**, and **Signal Processing**, with applications in healthcare. I focus on both fundamental aspects of models and their application to clinical usecases.
 
-## Research Interests
-
-- **Few-Shot Learning** — Learning with limited labeled data
-- **Diversity in data & models** — Integrating diversity of data and model representations to improve learning
-- **Large Language Models** — Diffusion models, transformers, and multimodal architectures
-- **AI for Healthcare** — Multimodal medical data integration with possibly missing modalities
-- **Graph Signal Processing** — Signal analysis on irregular domains, neuroimaging applications
-
 → See the [Research page](/research) for publications, projects, and supervised students.
-
-## Teaching
 
 I am involved in numerous teaching activities at IMT Atlantique, including courses on machine learning, deep learning, algorithms, and critical thinking. I am also the co-leader of the Data Science track, and co-leader of Computer Science courses for first year engineering students.
 

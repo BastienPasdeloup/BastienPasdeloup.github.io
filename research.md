@@ -30,11 +30,9 @@ My research interests include (but are not limited to):
 
 - **B. Pasdeloup**, V. Gripon, G. Mercier, D. Pastor, M. G. Rabbat (2017). **Characterization and Inference of Graph Diffusion Processes from Observations of Stationary Signals**. *IEEE Transactions on Signal and Information Processing over Networks*.
 
-Full publication list available on my Google Scholar profile:
-
 <p style="text-align: center;">
   <a href="https://scholar.google.com/citations?user=dKOgoG4AAAAJ" target="_blank" class="publication-link" style="display: inline-flex; gap: 0.5rem; align-items: center; padding: 0.75rem 1.5rem; background: var(--color-primary); color: white; border-radius: 8px; font-weight: 500;">
-    <i class="fas fa-graduation-cap"></i> View on Google Scholar
+    <i class="fas fa-graduation-cap"></i> Full publication list on Google Scholar
   </a>
 </p>
 
