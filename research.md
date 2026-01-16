@@ -12,10 +12,6 @@ title: Research
 
 My research focuses on modern AI technologies, from fundamental model development to healthcare applications. I identify major AI trends and adapt them for domains underserved by major industry players, particularly in health.
 
-<div class="highlight-box">
-  <p>🎯 <strong>Current focus:</strong> Developing a <em>flexible multimodal foundation model for healthcare</em>, capable of integrating diverse medical data (imaging, time series, clinical notes, genomics) while handling missing modalities.</p>
-</div>
-
 ## Publications
 
 Full publication list available on my Google Scholar profile:
@@ -28,76 +24,34 @@ Full publication list available on my Google Scholar profile:
 
 ## Research Themes
 
-### 🌱 Few-Shot Learning & Diversity (ANR JCJC ENDIVE)
+- **Few-Shot Learning** — Learning with limited labeled data
+- **Diversity in data & models** — Integrating diversity of data and model representations to improve learning
+- **Large Language Models** — Diffusion models, transformers, and multimodal architectures
+- **AI for Healthcare** — Multimodal medical data integration with possibly missing modalities
+- **Graph Signal Processing** — Signal analysis on irregular domains, neuroimaging applications
 
-I lead the ANR JCJC project **ENDIVE** (2024-2028, ~294k€) exploring how **diversity** can improve learning with limited data:
+## Selected Publications
 
-- **Data axis**: Quantifying dataset similarity, optimal sample selection, identifying relevant data portions
-- **Embedding axis**: Selecting informative representations, multi-context embeddings, model ensemble selection
+- Y. El Ouahidi, P. music music music music music music music music, B. Pasdeloup et al. (2025). **REVE: A Foundation Model for EEG — Adapting to Any Setup with Large-Scale Pretraining on 25,000 Subjects**. *NeurIPS 2025*. [<i class="fab fa-github"></i>](https://github.com/brain-bzh/REVE)
 
-Using **Determinantal Point Processes (DPPs)** to enable diversity-aware sampling with mathematical guarantees.
+- Y. Bendou, Y. Hu, R. Laforgue, G. Liutkus, L. Drumetz, B. Pasdeloup (2022). **EASY — Ensemble Augmented-Shot-Y-Shaped Learning: State-of-the-Art Few-Shot Classification with Simple Components**. *Transactions on Machine Learning Research*. [<i class="fab fa-github"></i>](https://github.com/ybendou/easy)
 
-<div class="publication-links">
-  <a href="https://anr.fr/Projet-ANR-23-CE23-0030" class="publication-link" target="_blank">
-    <i class="fas fa-external-link-alt"></i> ANR Project Page
-  </a>
-</div>
+- A. El Ouahidi, Y. Music, B. Music, B. Pasdeloup et al. (2024). **Machine Learning for Pacemaker Implantation Prediction After TAVI Using Multimodal Imaging Data**. *Scientific Reports*.
 
-### 🧠 Foundation Models
+- B. Pasdeloup, V. Gripon, G. Mercier, D. Pastor, M. G. Rabbat (2017). **Characterization and Inference of Graph Diffusion Processes from Observations of Stationary Signals**. *IEEE Transactions on Signal and Information Processing over Networks*.
 
-**REVE: A Foundation Model for EEG** (NeurIPS 2025)
-- Largest EEG corpus to date: **60,000+ hours**, **25,000+ subjects**, **92 datasets**
-- State-of-the-art on **10 tasks** with minimal or no adaptation
-- Challenges the need for task-specific models in BCI
-
-<div class="publication-links">
-  <a href="https://github.com/brain-bzh/REVE" class="publication-link" target="_blank">
-    <i class="fab fa-github"></i> Code
-  </a>
-</div>
-
-**Large Language Models**
-- Diffusion-based LLMs for faster generation and parallel demasking
-- Diversity integration during response generation
-- 3 ongoing PhD projects on LLM architectures and reasoning
-
-### 🏥 AI for Healthcare
-
-Collaborations with medical specialists on real clinical problems:
-
-**Cardiology** (CHU Brest, CHU Paris)
-- TAVI pacemaker implantation prediction using multimodal imaging [J5]
-- Intensive care unit risk scoring with ML [J10]
-- Coronary syndrome analysis via AI-assisted vascular segmentation [J8]
-- CTEPH early prediction from blood flow data [J9]
-
-**Neurology** (CHU Brest, Horizon Europe STRATIFY)
-- 30-day mortality prediction after stroke [T2]
-- Stroke recurrence risk prediction
-- Long-term resilience diagnosis
-
-**Oncology** (EPFL/CHUV)
-- Optimal transport distances for patient similarity based on lymphocyte distribution in tumors [C12]
-- Precision medicine approaches
-
-### 📊 Graph Signal Processing
-
-My PhD work extended signal processing to irregular domains modeled by graphs:
-- **Graph inference** from diffused signals [J1]
-- **Uncertainty principle** on graphs [B1]
-- **Translation operators** for Graph CNNs [C4, C7]
-- Applications to **fMRI** and **EEG** data [C8, C18, C19]
+→ [Full publication list on Google Scholar](https://scholar.google.com/citations?user=dKOgoG4AAAAJ)
 
 ## Funded Projects (PI/co-PI)
 
-| Project | Funding | Period | Amount |
-|---------|---------|--------|--------|
-| **ENDIVE** — Encouraging Diversity in Few-Shot Learning | ANR JCJC | 2024-2028 | ~294k€ |
-| **Sony Research Partnership** | Private | 2022-2026 | ~240k€ |
-| **Autonomous Pack** — AI for Logistics | ADEME | 2023-2026 | ~260k€ |
-| **ASTRID** — AI for Heterogeneous Component Fusion | ANR | 2022-2023 | ~142k€ |
-| **Few-Shot Learning for BCI** | Région Bretagne + ANR | 2021-2024 | ~106k€ |
-| **Futur & Ruptures** — Few-Shot Labeling | Fondation Mines-Télécom | 2021-2024 | ~108k€ |
+| Project | Funding | Period |
+|---------|---------|--------|
+| **ENDIVE** — Encouraging Diversity in Few-Shot Learning | ANR JCJC | 2024–2028 |
+| **Sony Research Partnership** | Private | 2022–2026 |
+| **Autonomous Pack** — AI for Logistics | ADEME | 2023–2026 |
+| **FUSCHIA** — AI for Heterogeneous Component Fusion | ANR ASTRID | 2022–2023 |
+| **Few-Shot Learning for BCI** | Région Bretagne + ANR | 2021–2024 |
+| **Futur & Ruptures** — Few-Shot Labeling | Fondation Mines-Télécom | 2021–2024 |
 
 ## Supervisions
 
@@ -189,6 +143,13 @@ All publication code is available on GitHub:
     <a href="https://github.com/BastienPasdeloup/graph_translations">View Repository →</a>
   </div>
 </div>
+
+## Scientific Dissemination
+
+- **Fête de la Science** — Annual science festival presentations on AI and machine learning
+- **Nuit des Chercheurs** — Public engagement events explaining research to general audiences
+- **School Visits** — AI introduction workshops for primary and secondary school students
+- **Les Capucins** — Public talks at Brest's cultural center
 
 ## Academic Service
 
