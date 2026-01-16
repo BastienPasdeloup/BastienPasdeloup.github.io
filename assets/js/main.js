@@ -95,3 +95,75 @@ document.querySelectorAll('.card, .interest-item, .publication, .contact-item').
   el.style.transition = 'opacity 0.4s ease, transform 0.4s ease';
   observer.observe(el);
 });
+
+// Slideshow functionality
+function initSlideshow() {
+  const slideshows = document.querySelectorAll('.slideshow');
+  
+  slideshows.forEach(slideshow => {
+    const slides = slideshow.querySelectorAll('.slide');
+    const prevBtn = slideshow.querySelector('.slideshow-prev');
+    const nextBtn = slideshow.querySelector('.slideshow-next');
+    const dotsContainer = slideshow.querySelector('.slideshow-dots');
+    let currentSlide = 0;
+    let autoplayInterval;
+    
+    if (slides.length === 0) return;
+    
+    // Create dots
+    slides.forEach((_, index) => {
+      const dot = document.createElement('span');
+      dot.classList.add('dot');
+      if (index === 0) dot.classList.add('active');
+      dot.addEventListener('click', () => goToSlide(index));
+      dotsContainer.appendChild(dot);
+    });
+    
+    const dots = dotsContainer.querySelectorAll('.dot');
+    
+    function showSlide(index) {
+      slides.forEach(slide => slide.classList.remove('active'));
+      dots.forEach(dot => dot.classList.remove('active'));
+      slides[index].classList.add('active');
+      dots[index].classList.add('active');
+    }
+    
+    function nextSlide() {
+      currentSlide = (currentSlide + 1) % slides.length;
+      showSlide(currentSlide);
+    }
+    
+    function prevSlide() {
+      currentSlide = (currentSlide - 1 + slides.length) % slides.length;
+      showSlide(currentSlide);
+    }
+    
+    function goToSlide(index) {
+      currentSlide = index;
+      showSlide(currentSlide);
+      resetAutoplay();
+    }
+    
+    function resetAutoplay() {
+      clearInterval(autoplayInterval);
+      autoplayInterval = setInterval(nextSlide, 5000);
+    }
+    
+    if (prevBtn) prevBtn.addEventListener('click', () => { prevSlide(); resetAutoplay(); });
+    if (nextBtn) nextBtn.addEventListener('click', () => { nextSlide(); resetAutoplay(); });
+    
+    // Start autoplay
+    autoplayInterval = setInterval(nextSlide, 5000);
+    
+    // Pause on hover
+    slideshow.addEventListener('mouseenter', () => clearInterval(autoplayInterval));
+    slideshow.addEventListener('mouseleave', () => { autoplayInterval = setInterval(nextSlide, 5000); });
+  });
+}
+
+// Initialize slideshow when DOM is ready
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initSlideshow);
+} else {
+  initSlideshow();
+}
