@@ -134,19 +134,31 @@ My research interests include (but are not limited to):
 
 I regularly participate in scientific dissemination activities to promote science and research to the general public, including:
 
-- **Fête de la Science** — Annual science festival presentations on AI and machine learning
-- **Nuit des Chercheurs** — Public engagement events explaining research to general audiences
-- **School Visits** — AI introduction workshops for primary school students
+- **Fête de la science** — Annual science festival presentations on AI and machine learning
+- **Nuit des chercheurs** — Public engagement events explaining research to general audiences
+- **Un chercheur à l'école** — AI introduction workshops for primary school students
 
 <div class="slideshow">
   <div class="slideshow-container">
     <div class="slide active">
       <img src="/assets/img/dissemination/amine_prix.png" alt="Prix de la recherche clinique">
-      <div class="slide-caption">Prix de la recherche clinique 2022 pour Amine El Ouahidi <a href="https://www.letelegramme.fr/finistere/brest-29200/deux-jeunes-chercheurs-brestois-recompenses-par-un-prix-de-1-000-eur-1678452.php" target="_blank">[source]</a></div>
+      <div class="slide-caption">Prix de la recherche clinique 2022 pour Amine El Ouahidi</div>
     </div>
     <div class="slide">
       <img src="/assets/img/dissemination/bastien_gretsi.jpg" alt="Label recherche reproductible">
-      <div class="slide-caption">Label recherche reproductible au GRETSI 2025 <a href="https://github.com/GRETSI-2025" target="_blank">[source]</a></div>
+      <div class="slide-caption">Label recherche reproductible au GRETSI 2025</div>
+    </div>
+    <div class="slide">
+      <img src="/assets/img/dissemination/bastien_ecole.jpeg" alt="Un chercheur à l'école">
+      <div class="slide-caption">Un chercheur à l'école 2025</div>
+    </div>
+    <div class="slide">
+      <img src="/assets/img/dissemination/bastien_sciences.jpg" alt="Fête de la science">
+      <div class="slide-caption">Fête de la science 2025</div>
+    </div>
+    <div class="slide">
+      <img src="/assets/img/dissemination/bastien_nedc.jpg" alt="Nuit des chercheurs">
+      <div class="slide-caption">Nuit des chercheurs 2023</div>
     </div>
   </div>
   <button class="slideshow-prev"><i class="fas fa-chevron-left"></i></button>
