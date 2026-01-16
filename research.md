@@ -20,7 +20,7 @@ My research interests include (but are not limited to):
 - **AI for Healthcare** -- Multimodal medical data integration with possibly missing modalities
 - **Graph Signal Processing** -- Signal analysis on irregular domains, neuroimaging applications
 
-## Selected publications
+## Selected Publications
 
 - Yassine El Ouahidi, Jonathan Lys, Philipp Thölke, Nicolas Farrugia, Bastien Pasdeloup, Vincent Gripon, Karim Jerbi, and Giulia Lioi (2025). **REVE: A Foundation Model for EEG -- Adapting to Any Setup with Large-Scale Pretraining on 25,000 Subjects**. *Annual Conference on Neural Information Processing Systems (NeurIPS)*.
 
@@ -36,45 +36,31 @@ My research interests include (but are not limited to):
   </a>
 </p>
 
-## Funded Projects (PI/co-PI)
+## Selected Projects
 
 <div class="card-grid">
   <div class="course-card">
-    <h3>🌱 ENDIVE</h3>
-    <div class="course-info">ANR JCJC • 2024–2028</div>
-    <p>Encouraging Diversity in Few-Shot Learning -- exploring how diversity can improve learning with limited data.</p>
+    <h3>ENDIVE</h3>
+    <div class="course-info">ANR JCJC • PI</div>
+    <div class="course-info">2024 -- 2028</div>
+    <p>Encouraging diversity in few-shot learning -- Exploring how diversity can improve learning with limited data.</p>
     <a href="https://anr.fr/Projet-ANR-23-CE23-0030" target="_blank">ANR Project Page →</a>
   </div>
-  
+
   <div class="course-card">
-    <h3>🎵 Sony Research Partnership</h3>
-    <div class="course-info">Private • 2022–2026</div>
-    <p>Few-shot learning research collaboration with Sony Research.</p>
+    <h3>STRATIF-AI</h3>
+    <div class="course-info">ANR ASTRID • Collaborator</div>
+    <div class="course-info">2022 -- 2026</div>
+    <p>Continuous stratification for improved prevention, treatment, and rehabilitation of stroke patients using digital twins and artificial intelligence.</p>
   </div>
   
   <div class="course-card">
-    <h3>📦 Autonomous Pack</h3>
-    <div class="course-info">ADEME • 2023–2026</div>
-    <p>AI for Logistics -- embedded deep learning for autonomous tracking systems.</p>
+    <h3>FUSCHIA • Co-PI</h3>
+    <div class="course-info">ANR ASTRID • Co-PI</div>
+    <div class="course-info">2022 -- 2023</div>
+    <p>AI for heterogeneous component fusion -- Multimodal image segmentation.</p>
   </div>
   
-  <div class="course-card">
-    <h3>🔬 FUSCHIA</h3>
-    <div class="course-info">ANR ASTRID • 2022–2023</div>
-    <p>AI for Heterogeneous Component Fusion -- multimodal image segmentation.</p>
-  </div>
-  
-  <div class="course-card">
-    <h3>🧠 Few-Shot Learning for BCI</h3>
-    <div class="course-info">Région Bretagne + ANR • 2021–2024</div>
-    <p>Applying few-shot learning techniques to brain-computer interfaces.</p>
-  </div>
-  
-  <div class="course-card">
-    <h3>🚀 Futur & Ruptures</h3>
-    <div class="course-info">Fondation Mines-Télécom • 2021–2024</div>
-    <p>Few-Shot Labeling -- reducing the cost of dataset annotation.</p>
-  </div>
 </div>
 
 ## Supervisions
@@ -83,20 +69,20 @@ My research interests include (but are not limited to):
 
 | Name | Topic | Period | Links |
 |------|-------|--------|-------|
-| Nolan Sisouphanthong | Diffusion Models for Language | 2025– | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/nolan-sisouphanthong-804224224) |
-| Joshua Chaz Rivera | Diffusion-Based LLMs | 2025– | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/joshuacrivera) [<i class="fab fa-github"></i>](https://github.com/JoshuaCRivera) |
-| Jonathan Lys | LLMs & Diversity | 2024– | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=heUq7WEAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/jonathan-lys) [<i class="fab fa-github"></i>](https://github.com/jonathanlys01) |
-| Dubon Rodrigue | AI for District Heating Networks | 2022–2025 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=dn0h91gAAAAJ) [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/dubonr) [<i class="fab fa-github"></i>](https://github.com/drod-96) |
-| Yassine El Ouahidi | Deep Learning for BCI | 2021–2025 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=BGZsbNgAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/elouahidi-y) [<i class="fab fa-github"></i>](https://github.com/elouayas) |
-| Yassir Bendou | Few-Shot Image Classification | 2021–2024 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=Hfzg6rcAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/yassir-bendou) [<i class="fab fa-github"></i>](https://github.com/ybendou) |
-| Fred Michael Gonsalves | ML for Cruise Ship Energy Efficiency | 2020–2023 | [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/fred-gonsalves) |
-| Maryam Karimi-Mamaghan | Metaheuristics & ML Hybridization | 2019–2022 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=2-pxgrcAAAAJ) [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/maryamkarimi93) |
+| Nolan Sisouphanthong | Diffusion Models for Language | 2025 -- | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/nolan-sisouphanthong-804224224) |
+| Joshua Chaz Rivera | Diffusion-Based LLMs | 2025 -- | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/joshuacrivera) [<i class="fab fa-github"></i>](https://github.com/JoshuaCRivera) |
+| Jonathan Lys | LLMs & Diversity | 2024 --  | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=heUq7WEAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/jonathan-lys) [<i class="fab fa-github"></i>](https://github.com/jonathanlys01) |
+| Dubon Rodrigue | AI for District Heating Networks | 2022  --  2025 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=dn0h91gAAAAJ) [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/dubonr) [<i class="fab fa-github"></i>](https://github.com/drod-96) |
+| Yassine El Ouahidi | Deep Learning for BCI | 2021 -- 2025 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=BGZsbNgAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/elouahidi-y) [<i class="fab fa-github"></i>](https://github.com/elouayas) |
+| Yassir Bendou | Few-Shot Image Classification | 2021 -- 2024 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=Hfzg6rcAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/yassir-bendou) [<i class="fab fa-github"></i>](https://github.com/ybendou) |
+| Fred Michael Gonsalves | ML for Cruise Ship Energy Efficiency | 2020 -- 2023 | [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/fred-gonsalves) |
+| Maryam Karimi-Mamaghan | Metaheuristics & ML Hybridization | 2019 -- 2022 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=2-pxgrcAAAAJ) [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/maryamkarimi93) |
 
 ### Medical Doctorates
 
 | Name | Topic | Year | Links |
 |------|-------|------|-------|
-| Yahia Bellouche | CTEPH Prediction & Coronary Analysis | 2024– | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/yahia-bellouche-259b19237) |
+| Yahia Bellouche | CTEPH Prediction & Coronary Analysis | 2024 -- | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/yahia-bellouche-259b19237) |
 | Amine El Ouahidi | TAVI Pacemaker Implantation Prediction | 2023 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=rAbVJGUAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/amine-el-ouahidi-9bb726240) |
 | Victor Quéré | Stroke Mortality Prediction | 2021 | [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/victor-qu%C3%A9r%C3%A9-21502781) |
 
@@ -104,8 +90,8 @@ My research interests include (but are not limited to):
 
 | Name | Topic | Period | Links |
 |------|-------|--------|-------|
-| Mohamed Amine Sadikine | Stroke Risk Prediction | 2025–2027 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.fr/citations?user=hUpgbI4AAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/amine-sadikine) |
-| Hafsa El Hafyani | Multimodal Image Segmentation | 2022–2023 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=u1xtH80AAAAJ) [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/hafsa-el-hafyani-73326940) [<i class="fab fa-github"></i>](https://github.com/helhafyani) |
+| Mohamed Amine Sadikine | Stroke Risk Prediction | 2025 -- 2027 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.fr/citations?user=hUpgbI4AAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/amine-sadikine) |
+| Hafsa El Hafyani | Multimodal Image Segmentation | 2022 -- 2023 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=u1xtH80AAAAJ) [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/hafsa-el-hafyani-73326940) [<i class="fab fa-github"></i>](https://github.com/helhafyani) |
 | Benham Vahdani | RF Component Design with AI | 2020 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=DfE1R3MAAAAJ) [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/behnam-vahdani-784a0473) |
 | Mounia Hamidouche | Graph-Based Classification | 2020 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=mMEdVfoAAAAJ) [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/mounia-hamidouche-4b1388a5) [<i class="fab fa-github"></i>](https://github.com/mouniahamidouche) |
 
@@ -113,14 +99,14 @@ My research interests include (but are not limited to):
 
 | Name | Topic | Period | Links |
 |------|-------|--------|-------|
-| Manon Renault | Embedded Deep Learning for Sensors | 2023–2025 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/manon-renault-pro) [<i class="fab fa-github"></i>](https://github.com/mrenault07) |
-| Mervyn Guillou | AI for Hyperfrequency Components | 2021–2023 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/mervyn-guillou-90b96b244) |
+| Manon Renault | Embedded Deep Learning for Sensors | 2023 -- 2025 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/manon-renault-pro) [<i class="fab fa-github"></i>](https://github.com/mrenault07) |
+| Mervyn Guillou | AI for Hyperfrequency Components | 2021 -- 2023 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/mervyn-guillou-90b96b244) |
 
 ### Master Interns
 
 | Name | Period | Subject | Links |
 |------|--------|---------|-------|
-| Anatole Lehé | 2023–24 | DPP Sampling in Genetic Algorithms | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/anatole-leh%C3%A9-323b102a4) |
+| Anatole Lehé | 2023 -- 2024 | DPP Sampling in Genetic Algorithms | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/anatole-leh%C3%A9-323b102a4) |
 | Jonathan Lys | 2023 | Adaptation of Segmentation Models | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=heUq7WEAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/jonathan-lys/fr) [<i class="fab fa-github"></i>](https://github.com/jonathanlys01) |
 | Frederic Lin | 2023 | Segment Anything Model Extension | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/frederic-lin-b00a63222) [<i class="fab fa-github"></i>](https://github.com/frdlin) |
 | Zakaria El Ouahidi | 2023 | Real-Time EEG Decoding for BCI | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/zakaria-el-ouahidi-76045325b) |
