@@ -14,28 +14,24 @@ I believe in **learning by doing**. My approach emphasizes hands-on projects, in
 
 My courses cover both **technical skills** (computer science, AI, machine learning) and **scientific skills** (introduction to research, biases in data analysis).
 
-<div class="highlight-box">
-  <p>📊 Since 2015, I have taught <strong>~180 hours/year</strong> on average.</p>
-</div>
-
 ## Current Responsibilities
 
 <div class="card-grid">
   <div class="course-card">
     <h3>📊 Data Science Track</h3>
-    <div class="course-info">Master 1 & 2/div>
+    <div class="course-info">Master 1 & 2</div>
     <p>Program coordinator for the Data Science specialization track at IMT Atlantique.</p>
   </div>
   
   <div class="course-card">
     <h3>🖥️ Computer Science</h3>
-    <div class="course-info">Licence 3 • Since 2024</div>
+    <div class="course-info">Licence 3</div>
     <p>Introduction to computer science fundamentals for third-year undergraduate students.</p>
   </div>
   
   <div class="course-card">
     <h3>📈 How to Lie with Statistics</h3>
-    <div class="course-info">Master 1 & 2 • Since 2021</div>
+    <div class="course-info">Master 1 & 2</div>
     <p>Critical thinking about data visualization and statistical interpretation.</p>
   </div>
 </div>
@@ -44,25 +40,33 @@ My courses cover both **technical skills** (computer science, AI, machine learni
 
 <div class="card" style="margin: 2rem 0; border-left: 4px solid var(--color-primary);">
   <h3>🎮 PyRat — Learn Algorithms Through Gaming</h3>
-  <p><strong>PyRat</strong> is an educational platform I created to teach programming and algorithms at IMT Atlantique. Students learn by programming AI agents that compete in a maze game to collect cheese!</p>
+  <div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 250px;">
+      <p><strong>PyRat</strong> is an educational platform I created to teach programming and algorithms at IMT Atlantique. Students learn by programming AI agents that compete in a maze game to collect cheese!</p>
   
-  <p><strong>Impact:</strong></p>
-  <ul>
-    <li>Used at IMT Atlantique since 2015</li>
-    <li>Deployed at ECAM Louis de Broglie</li>
-    <li>Presented at PyConFr and QPES conferences</li>
-    <li>Open source with active development</li>
-  </ul>
+      <p><strong>Impact:</strong></p>
+      <ul>
+        <li>Used at IMT Atlantique since 2015</li>
+        <li>Presented at PyConFr and QPES conferences</li>
+        <li>Open source with active development</li>
+      </ul>
   
-  <div class="course-tags" style="margin: 1rem 0;">
-    <span class="tag">Python</span>
-    <span class="tag">Algorithms</span>
-    <span class="tag">Graph Theory</span>
-    <span class="tag">Game-based Learning</span>
-    <span class="tag">AI</span>
+      <div class="course-tags" style="margin: 1rem 0;">
+        <span class="tag">Python</span>
+        <span class="tag">Algorithms</span>
+        <span class="tag">Graph Theory</span>
+        <span class="tag">Game-based Learning</span>
+        <span class="tag">AI</span>
+      </div>
+  
+      <p><strong>Algorithms covered:</strong> BFS, DFS, Dijkstra, TSP Solving, Greedy Algorithms, Reinforcement Learning</p>
+    </div>
+    <div style="flex: 0 0 auto;">
+      <div style="position: relative; width: 100%; max-width: 400px; aspect-ratio: 16/9;">
+        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/SlgVerEEOaM" title="PyRat Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius: 8px;"></iframe>
+      </div>
+    </div>
   </div>
-  
-  <p><strong>Algorithms covered:</strong> BFS, DFS, Dijkstra, A*, Dynamic Programming, Greedy Algorithms, Adversarial Search</p>
   
   <div class="publication-links" style="margin-top: 1rem;">
     <a href="https://bastienpasdeloup.github.io/PyRat" class="publication-link">
