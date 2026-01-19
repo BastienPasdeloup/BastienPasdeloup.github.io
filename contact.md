@@ -11,7 +11,6 @@ title: Contact
 ## Let's Connect!
 
 I'm always happy to discuss research collaborations, student projects, or any questions about my work!
-
 Looking for an internship, PhD position, or project supervision? Feel free to contact me!
 
 <div class="contact-info">
@@ -35,65 +34,6 @@ Looking for an internship, PhD position, or project supervision? Feel free to co
     </div>
   </a>
   
-  <a href="https://www.imt-atlantique.fr/" target="_blank" class="contact-item">
-    <div class="contact-icon">
-      <i class="fas fa-building"></i>
-    </div>
-    <div class="contact-details">
-      <h3>Institution</h3>
-      <p>IMT Atlantique, Brest, France</p>
-    </div>
-  </a>
-  
-  <a href="https://www.imt-atlantique.fr/fr/recherche-innovation/equipe/brain" target="_blank" class="contact-item">
-    <div class="contact-icon">
-      <i class="fas fa-users"></i>
-    </div>
-    <div class="contact-details">
-      <h3>Research Team</h3>
-      <p>BRAIN</p>
-    </div>
-  </a>
-  
-  <a href="https://labsticc.fr/" target="_blank" class="contact-item">
-    <div class="contact-icon">
-      <i class="fas fa-flask"></i>
-    </div>
-    <div class="contact-details">
-      <h3>Laboratory</h3>
-      <p>Lab-STICC (CNRS UMR 6285)</p>
-    </div>
-  </a>
-  
-  <a href="https://fr.linkedin.com/in/bastien-pasdeloup" target="_blank" class="contact-item">
-    <div class="contact-icon">
-      <i class="fab fa-linkedin"></i>
-    </div>
-    <div class="contact-details">
-      <h3>LinkedIn</h3>
-      <p>bastien-pasdeloup</p>
-    </div>
-  </a>
-  
-  <a href="https://scholar.google.com/citations?user=dKOgoG4AAAAJ" target="_blank" class="contact-item">
-    <div class="contact-icon">
-      <i class="fas fa-graduation-cap"></i>
-    </div>
-    <div class="contact-details">
-      <h3>Google Scholar</h3>
-      <p>View Publications</p>
-    </div>
-  </a>
-  
-  <a href="https://github.com/BastienPasdeloup" target="_blank" class="contact-item">
-    <div class="contact-icon">
-      <i class="fab fa-github"></i>
-    </div>
-    <div class="contact-details">
-      <h3>GitHub</h3>
-      <p>BastienPasdeloup</p>
-    </div>
-  </a>
 </div>
 
 ## Office Address
@@ -106,21 +46,4 @@ Looking for an internship, PhD position, or project supervision? Feel free to co
     29238 Brest Cedex 03<br>
     France
   </p>
-</div>
-
-## Other Profiles
-
-<div class="tech-stack" style="margin-top: 1.5rem;">
-  <a href="https://scholar.google.com/citations?user=dKOgoG4AAAAJ" target="_blank" class="tech-badge">
-    <i class="fas fa-graduation-cap"></i> Google Scholar
-  </a>
-  <a href="https://fr.linkedin.com/in/bastien-pasdeloup" target="_blank" class="tech-badge">
-    <i class="fab fa-linkedin"></i> LinkedIn
-  </a>
-  <a href="https://github.com/BastienPasdeloup" target="_blank" class="tech-badge">
-    <i class="fab fa-github"></i> GitHub
-  </a>
-  <a href="https://labsticc.fr/en/directory/461-pasdeloup-bastien.htm" target="_blank" class="tech-badge">
-    <i class="fas fa-flask"></i> Lab-STICC
-  </a>
 </div>
