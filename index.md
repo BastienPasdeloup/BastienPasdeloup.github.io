@@ -3,10 +3,6 @@ layout: default
 title: Home
 ---
 
-<div class="notice" style="background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 1rem 1.5rem; margin-bottom: 2rem; color: #92400e;">
-  <strong>🚧 Under Construction</strong> — This website is currently being built. Some sections may be incomplete or subject to change.
-</div>
-
 <div class="page-header">
   <h1>Bastien Pasdeloup</h1>
   <p class="subtitle">Associate Professor (Maître de Conférences)</p>
@@ -32,3 +28,46 @@ I am involved in numerous teaching activities at IMT Atlantique, including cours
 | 2018 — 2019 | Post-Doctoral Researcher<br />Graph Signal Processing for Oncology | LTS4, EPFL<br />Lausanne, Switzerland |
 | 2015 — 2017 | PhD Student<br />AI & Graph Signal Processing [<i class="fas fa-book"></i>](https://theses.hal.science/tel-01708824) | IMT Atlantique<br />Brest, France |
 | 2012 — 2015 | Research Master<br />Computer Science | ENS Rennes & University of Rennes 1<br />Rennes, France |
+
+## Hobbies
+
+A CV would not be complete without mentioning a few personal interests!
+
+<div class="card-grid">
+  <div class="course-card">
+    <h3>🃏 Magic: The Gathering</h3>
+    <p>Been playing since I was 10.</p>
+    <div class="course-tags">
+      <span class="tag">Duel Commander</span>
+      <span class="tag">Legacy</span>
+      <span class="tag">Vintage</span>
+    </div>
+  </div>
+  
+  <div class="course-card">
+    <h3>🎸 Music</h3>
+    <p>Played in multiple bands over the years, mostly Heavy Metal.</p>
+    <div class="course-tags">
+      <span class="tag">Guitar</span>
+      <span class="tag">Singing</span>
+      <span class="tag">Synths</span>
+    </div>
+  </div>
+
+  <div class="course-card">
+    <h3>🥋 Sports</h3>
+    <p>Trying my best to find some time for it.</p>
+    <div class="course-tags">
+      <span class="tag">Karate</span>
+      <span class="tag">Bouldering</span>
+    </div>
+  </div>
+  
+  <div class="course-card">
+    <h3>🖨️ 3D Design</h3>
+    <p>Creating and sharing 3D printable designs.</p>
+    <a href="https://www.printables.com/@BastienPasdel_136865" target="_blank" class="publication-link" style="margin-top: 0.75rem; display: inline-flex;">
+      <i class="fas fa-cube"></i> Printables Profile
+    </a>
+  </div>
+</div>
