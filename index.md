@@ -12,6 +12,8 @@ title: Home
   <p class="subtitle">Associate Professor (Maître de Conférences)</p>
 </div>
 
+## Presentation
+
 I am an Associate Professor at [IMT Atlantique](https://www.imt-atlantique.fr/) (Brest, France), member of the [BRAIN](https://www.imt-atlantique.fr/fr/recherche-innovation/equipe/brain) research team within the [Lab-STICC](https://labsticc.fr/) laboratory (CNRS UMR 6285).
 
 My research lies at the intersection of **Artificial Intelligence**, **Deep Learning**, and **Signal Processing**, with applications in healthcare. I focus on both fundamental aspects of models and their application to clinical usecases.
@@ -26,10 +28,10 @@ I am involved in numerous teaching activities at IMT Atlantique, including cours
 
 | Period | Position | Institution |
 |--------|----------|-------------|
-| 2019 — present | Associate Professor | BRAIN, IMT Atlantique & Lab-STICC, Brest, France |
-| 2018 — 2019 | Post-Doctoral Researcher | LTS4, EPFL, Lausanne, Switzerland |
-| 2015 — 2017 | PhD in Graph Signal Processing [<i class="fas fa-book"></i>](https://theses.hal.science/tel-01708824) | IMT Atlantique, Brest, France |
-| 2012 — 2015 | Research Master in Computer Science | ENS Rennes & University of Rennes 1, Rennes, France |
+| 2019 — present | Associate Professor | BRAIN, IMT Atlantique & Lab-STICC<br />Brest, France |
+| 2018 — 2019 | Post-Doctoral Researcher<br />Graph Signal Processing for Oncology | LTS4, EPFL<br />Lausanne, Switzerland |
+| 2015 — 2017 | PhD Student<br />AI & Graph Signal Processing [<i class="fas fa-book"></i>](https://theses.hal.science/tel-01708824) | IMT Atlantique<br />Brest, France |
+| 2012 — 2015 | Research Master<br />Computer Science | ENS Rennes & University of Rennes 1<br />Rennes, France |
 
 ## Contact
 

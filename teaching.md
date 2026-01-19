@@ -36,6 +36,10 @@ My courses cover both **technical skills** (computer science, AI, machine learni
   </div>
 </div>
 
+**Courses:** Informatique (L3), Data Science Track (M1/M2), Introduction to AI (M1/M2), How to Lie with Statistics (M1/M2), Introduction à la Recherche (M1/M2), Advanced Machine Learning (M1/M2), Statistical Learning and Sparsity (M1/M2)
+
+**Past courses:** Algorithmique & Mathématiques Discrètes (L3), Fundamentals of Machine Learning (M1/M2), Systèmes en Réseaux (L3), Advanced Data Mining (M1/M2), Gestion de Projet (M1/M2), Business Intelligence (M1/M2), Majeure Informatique (M1/M2), Traitement du Signal (L1)
+
 ## Featured Project: PyRat 🐀
 
 <div class="card" style="margin: 2rem 0; border-left: 4px solid var(--color-primary);">
@@ -50,7 +54,7 @@ My courses cover both **technical skills** (computer science, AI, machine learni
       <p><strong>Impact:</strong></p>
       <ul>
         <li>Used at IMT Atlantique since 2015</li>
-        <li>Presented at PyConFr and QPES conferences</li>
+        <li>Presented at <a href="https://www.pycon.fr/2016/pages/programme.html#PyRat%20-%20Un%20jeu%20pour%20l'apprentissage%20de%20l'informatique%20en%20Python" target="_blank">PyConFr 2016</a> and <a href="https://colloque-pedagogie.org/assets/actes/Actes_QPES_2017_Grenoble.pdf" target="_blank">QPES 2017</a> conferences</li>
         <li>Open source with active development</li>
       </ul>
   
@@ -85,29 +89,6 @@ My courses cover both **technical skills** (computer science, AI, machine learni
   </div>
 </div>
 
-## All Courses
-
-### Current Courses
-
-- Informatique (L3)
-- Data Science Track (M1/M2)
-- Introduction to AI (M1/M2)
-- How to Lie with Statistics (M1/M2)
-- Introduction à la Recherche (M1/M2)
-- Advanced Machine Learning (M1/M2)
-- Statistical Learning and Sparsity (M1/M2)
-
-### Past Courses
-
-- Algorithmique & Mathématiques Discrètes (L3)
-- Fundamentals of Machine Learning (M1/M2)
-- Systèmes en Réseaux (L3)
-- Advanced Data Mining (M1/M2)
-- Gestion de Projet (M1/M2)
-- Business Intelligence (M1/M2)
-- Majeure Informatique (M1/M2)
-- Traitement du Signal (L1)
-
 ## Student Supervision
 
 ### Projects & Internships
@@ -138,24 +119,3 @@ I am committed to sharing scientific knowledge with the public:
 - 🌙 **Nuit Européenne des Chercheur·e·s** — Annual participation since 2019
 - 🔬 **Fête de la Science** — Participation since 2024
 - 🏫 **Une Chercheure à l'École** — Workshops in 9 CM1/CM2 classes across 7 schools in Finistère (2025)
-
-## Teaching Volume
-
-<div class="card" style="margin: 2rem 0;">
-  <p style="text-align: center; margin-bottom: 1rem;"><strong>Face-to-face teaching hours per academic year</strong></p>
-  <div style="display: flex; justify-content: space-between; align-items: flex-end; height: 150px; padding: 0 1rem;">
-    <div style="text-align: center;"><div style="background: var(--color-primary); width: 30px; height: 32px;"></div><small>15-16</small></div>
-    <div style="text-align: center;"><div style="background: var(--color-primary); width: 30px; height: 32px;"></div><small>16-17</small></div>
-    <div style="text-align: center;"><div style="background: var(--color-primary); width: 30px; height: 32px;"></div><small>17-18</small></div>
-    <div style="text-align: center;"><div style="background: #94a3b8; width: 30px; height: 3px;"></div><small>18-19</small></div>
-    <div style="text-align: center;"><div style="background: var(--color-primary); width: 30px; height: 92px;"></div><small>19-20</small></div>
-    <div style="text-align: center;"><div style="background: var(--color-primary); width: 30px; height: 91px;"></div><small>20-21</small></div>
-    <div style="text-align: center;"><div style="background: var(--color-primary); width: 30px; height: 93px;"></div><small>21-22</small></div>
-    <div style="text-align: center;"><div style="background: var(--color-primary); width: 30px; height: 97px;"></div><small>22-23</small></div>
-    <div style="text-align: center;"><div style="background: var(--color-primary); width: 30px; height: 92px;"></div><small>23-24</small></div>
-    <div style="text-align: center;"><div style="background: var(--color-primary); width: 30px; height: 90px;"></div><small>24-25</small></div>
-  </div>
-  <p style="text-align: center; margin-top: 1rem; color: var(--color-text-muted); font-size: 0.85rem;">
-    PhD (2015-2017) • Post-Doc EPFL (2018-2019) • Associate Professor (2019–present)
-  </p>
-</div>
