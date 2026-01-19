@@ -143,5 +143,3 @@ I regularly participate in scientific dissemination activities to promote scienc
 - **Reviewing**: IEEE TSP, IEEE SPL, IEEE TSIPN, Elsevier Signal Processing, EURASIP, GRETSI, ACM Sigmetrics, Oxford Bioinformatics, ANR JCJC
 
 - **Event Organization**: GSP Workshop (2018), GdR ISIS Day (2019), Foundation Day (2024), Few-Shot Learning Workshop (2024)
-
-- **Invited Talks**: EPFL, ENS Lyon, CRIStAL, GIPSA-Lab, Inria, Université de Nantes
