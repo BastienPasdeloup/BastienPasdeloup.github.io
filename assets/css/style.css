@@ -669,6 +669,7 @@ th, td {
   padding: 0.75rem 1rem;
   text-align: left;
   border-bottom: 1px solid var(--color-border);
+  color: var(--color-text);
 }
 
 th {
@@ -790,4 +791,190 @@ tr:hover {
 .slideshow-dots .dot.active {
   background: white;
   transform: scale(1.2);
+}
+
+/* ===== PyRat Showcase ===== */
+.pyrat-showcase {
+  margin: 2rem 0;
+  background: linear-gradient(135deg, #1e3a5f 0%, #0f172a 100%);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow-lg);
+}
+
+.pyrat-header {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 2rem;
+  background: rgba(255, 255, 255, 0.05);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.pyrat-logo {
+  width: 80px;
+  height: 80px;
+  border-radius: 16px;
+  object-fit: cover;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.pyrat-title h3 {
+  margin: 0;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #fff;
+  letter-spacing: -0.02em;
+}
+
+.pyrat-tagline {
+  margin: 0.25rem 0 0;
+  color: #94a3b8;
+  font-size: 1.1rem;
+}
+
+.pyrat-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  padding: 2rem;
+}
+
+.pyrat-description {
+  color: #e2e8f0;
+}
+
+.pyrat-description p {
+  color: #cbd5e1;
+  line-height: 1.7;
+  margin-bottom: 1.5rem;
+}
+
+.pyrat-stats {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.pyrat-stat {
+  text-align: center;
+}
+
+.stat-number {
+  display: block;
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: #60a5fa;
+}
+
+.stat-label {
+  font-size: 0.85rem;
+  color: #94a3b8;
+}
+
+.pyrat-algorithms {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.algo-tag {
+  padding: 0.35rem 0.75rem;
+  background: rgba(96, 165, 250, 0.15);
+  color: #60a5fa;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  border: 1px solid rgba(96, 165, 250, 0.3);
+}
+
+.pyrat-video {
+  position: relative;
+  aspect-ratio: 16/9;
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+}
+
+.pyrat-video iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.pyrat-footer {
+  padding: 1.5rem 2rem;
+  background: rgba(0, 0, 0, 0.2);
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.pyrat-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.pyrat-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.6rem 1.25rem;
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.9rem;
+  transition: var(--transition);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.pyrat-btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: translateY(-2px);
+}
+
+.pyrat-btn.primary {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+}
+
+.pyrat-btn.primary:hover {
+  background: var(--color-primary-dark);
+}
+
+.pyrat-presentations {
+  font-size: 0.9rem;
+  color: #94a3b8;
+}
+
+.pyrat-presentations a {
+  color: #60a5fa;
+  text-decoration: none;
+}
+
+.pyrat-presentations a:hover {
+  text-decoration: underline;
+}
+
+.pyrat-presentations span {
+  margin: 0 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .pyrat-content {
+    grid-template-columns: 1fr;
+  }
+  
+  .pyrat-stats {
+    justify-content: space-around;
+  }
+  
+  .pyrat-header {
+    flex-direction: column;
+    text-align: center;
+  }
 }

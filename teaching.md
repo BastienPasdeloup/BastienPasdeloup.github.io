@@ -40,51 +40,103 @@ My courses cover both **technical skills** (computer science, AI, machine learni
 
 ## Featured Project: PyRat 🐀
 
-<div class="card" style="margin: 2rem 0; border-left: 4px solid var(--color-primary);">
-  <div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
-    <div style="flex: 0 0 auto; text-align: center;">
-      <img src="/assets/img/pyrat_logo.png" alt="PyRat Logo" style="width: 150px; height: auto; border-radius: 8px;">
+<div class="pyrat-showcase">
+  <div class="pyrat-header">
+    <img src="/assets/img/pyrat_logo.png" alt="PyRat Logo" class="pyrat-logo">
+    <div class="pyrat-title">
+      <h3>PyRat</h3>
+      <p class="pyrat-tagline">Learn Algorithms Through Gaming</p>
     </div>
-    <div style="flex: 1; min-width: 250px;">
-      <h3 style="margin-top: 0;">🎮 PyRat — Learn Algorithms Through Gaming</h3>
+  </div>
+  
+  <div class="pyrat-content">
+    <div class="pyrat-description">
       <p><strong>PyRat</strong> is an educational platform I created to teach programming and algorithms at IMT Atlantique. Students learn by programming AI agents that compete in a maze game to collect cheese!</p>
-  
-      <p><strong>Impact:</strong></p>
-      <ul>
-        <li>Used at IMT Atlantique since 2015 (~400 students/year)</li>
-        <li>Presented at <a href="https://www.pycon.fr/2016/pages/programme.html#PyRat%20-%20Un%20jeu%20pour%20l'apprentissage%20de%20l'informatique%20en%20Python" target="_blank">PyConFr 2016</a> and <a href="https://colloque-pedagogie.org/assets/actes/Actes_QPES_2017_Grenoble.pdf" target="_blank">QPES 2017</a> conferences</li>
-        <li>Open source with active development</li>
-      </ul>
-  
-      <p><strong>Algorithms covered:</strong> BFS, DFS, Dijkstra, TSP Solving, Greedy Algorithms, Reinforcement Learning</p>
+      
+      <div class="pyrat-stats">
+        <div class="pyrat-stat">
+          <span class="stat-number">400+</span>
+          <span class="stat-label">students/year</span>
+        </div>
+        <div class="pyrat-stat">
+          <span class="stat-number">10+</span>
+          <span class="stat-label">years in use</span>
+        </div>
+        <div class="pyrat-stat">
+          <span class="stat-number">6+</span>
+          <span class="stat-label">algorithms</span>
+        </div>
+      </div>
+      
+      <div class="pyrat-algorithms">
+        <span class="algo-tag">BFS</span>
+        <span class="algo-tag">DFS</span>
+        <span class="algo-tag">Dijkstra</span>
+        <span class="algo-tag">TSP</span>
+        <span class="algo-tag">Greedy</span>
+        <span class="algo-tag">RL</span>
+      </div>
+    </div>
+    
+    <div class="pyrat-video">
+      <iframe src="https://www.youtube.com/embed/SlgVerEEOaM" title="PyRat Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   </div>
   
-  <div style="margin: 1.5rem 0;">
-    <div style="position: relative; width: 100%; max-width: 560px; aspect-ratio: 16/9; margin: 0 auto;">
-      <iframe width="100%" height="100%" src="https://www.youtube.com/embed/SlgVerEEOaM" title="PyRat Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius: 8px;"></iframe>
+  <div class="pyrat-footer">
+    <div class="pyrat-links">
+      <a href="https://bastienpasdeloup.github.io/PyRat" class="pyrat-btn primary">
+        <i class="fas fa-book"></i> Documentation
+      </a>
+      <a href="https://github.com/BastienPasdeloup/PyRat" class="pyrat-btn">
+        <i class="fab fa-github"></i> GitHub
+      </a>
+      <a href="https://pypi.org/project/pyrat-game/" class="pyrat-btn">
+        <i class="fab fa-python"></i> PyPI
+      </a>
     </div>
-  </div>
-  
-  <div class="publication-links" style="margin-top: 1rem; display: flex; flex-wrap: wrap; gap: 0.5rem;">
-    <a href="https://bastienpasdeloup.github.io/PyRat" class="publication-link">
-      <i class="fas fa-book"></i> Documentation
-    </a>
-    <a href="https://github.com/BastienPasdeloup/PyRat" class="publication-link">
-      <i class="fab fa-github"></i> GitHub
-    </a>
-    <a href="https://pypi.org/project/pyrat-game/" class="publication-link">
-      <i class="fab fa-python"></i> PyPI
-    </a>
+    <div class="pyrat-presentations">
+      <span>Presented at:</span>
+      <a href="https://www.pycon.fr/2016/pages/programme.html#PyRat%20-%20Un%20jeu%20pour%20l'apprentissage%20de%20l'informatique%20en%20Python" target="_blank">PyConFr 2016</a>
+      <span>•</span>
+      <a href="https://colloque-pedagogie.org/assets/actes/Actes_QPES_2017_Grenoble.pdf" target="_blank">QPES 2017</a>
+    </div>
   </div>
 </div>
 
 ## Student Supervision
 
-### Projects & Internships
+### Interns
 
-- 📁 **28 student projects** supervised (L2 to M2)
-- 🏢 **3 industry partnership projects**
-- 🎓 **4 end-of-study internship tutorships**
-- 👩‍🎓 **2 apprenticeship students** (engineering curriculum)
-- 📋 **17+ short internships** (L2 to M2, 2015-2024)
+| Name | Topic | Period | Links |
+|------|-------|--------|-------|
+| Anatole Lehé | DPP Sampling in Genetic Algorithms | 2023 — 2024 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/anatole-leh%C3%A9-323b102a4) |
+| Jonathan Lys | Adaptation of Segmentation Models | 2023 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=heUq7WEAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/jonathan-lys/fr) [<i class="fab fa-github"></i>](https://github.com/jonathanlys01) |
+| Frederic Lin | Segment Anything Model Extension | 2023 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/frederic-lin-b00a63222) [<i class="fab fa-github"></i>](https://github.com/frdlin) |
+| Zakaria El Ouahidi | Real-Time EEG Decoding for BCI | 2023 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/zakaria-el-ouahidi-76045325b) |
+| Nathan Darjana | 3D Segmentation of CT Scanner Heart Imaging | 2022 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/nathan-darjana-67062720a) |
+| Maëlle Gabens | Pruning for Graph Signal Sampling | 2022 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/ma%C3%ABlle-gabens-a728b2209) |
+| Amine El Ouahidi | ML for Post-TAVI Risk Prediction | 2022 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=rAbVJGUAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/amine-el-ouahidi-9bb726240) |
+| Marc Serre | Adversarial Classes in Few-Shot Problems | 2021 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/marc-serre-bb4480204) |
+| Gaspard Canevet | Reinforcement Learning in Metaheuristics | 2021 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/gaspard-canevet) |
+| Victor Quéré | ML for ICH Early Mortality Prediction | 2020 | [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/victor-qu%C3%A9r%C3%A9-21502781) |
+| Matis Feller | Study of Cell Repartition in Tumors | 2020 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/matis-feller-077a52140) |
+| Clément Ribes | Spatio-Temporal Signals with GSP | 2020 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/clement-ribes) |
+| Yassine El Ouahidi | Study of Cell Repartition in Tumors | 2020 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=BGZsbNgAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/elouahidi-y) [<i class="fab fa-github"></i>](https://github.com/elouayas) |
+| Ali Dadras | Classification of Patterns in Time Series | 2018 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=49FKi3gAAAAJ) |
+| Wenqi Shu-Quartier-dit-Maire | Classification of Cancer Types from Medical Images | 2018 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/wshuquar) |
+| Houda Abichou | Spectral Graph Theory | 2017 | |
+| Martin Dornier | BCI for Hand Movement Classification | 2016 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.fr/citations?user=a40ixbMAAAAJ) [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/martin-dornier-465b16119) |
+| Ladislas Ducerf | ML and GSP | 2016 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/ladislas-ducerf) |
+| Guillaume Buret | Hacking the PyRat Platform | 2016 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/guillaume-buret-a715ab44) [<i class="fab fa-github"></i>](https://github.com/thebigtouffe) |
+| Loïc Carr | ML for Object Recognition in Images | 2016 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/loic-carr) [<i class="fab fa-github"></i>](https://github.com/dimtion) |
+| Axel Kerinec | Spatio-Temporal Pattern Detection | 2016 | [<i class="fab fa-github"></i>](https://axelkrnc.github.io) |
+| Khalid Aitelamine | Graph Signal Processing for Classification | 2015 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/khalid-aitelamine-072731107) |
+| Chiraz Nafouki | Visualization of Signal Diffusion on Graphs | 2015 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/chiraz-nafouki-b03027a4) |
+
+### Student Projects
+
+- **29 student projects** proposed and supervised (Bachelor 3 to Master 2)
+- **3 industry partnered projects** tutored (Master 1 & 2)
+- **4 end-of-study internship** tutored (Master 2)
+- **2 apprenticeship students** tutored (engineering curriculum)

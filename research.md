@@ -69,11 +69,11 @@ My research interests include (but are not limited to):
 
 | Name | Topic | Period | Links |
 |------|-------|--------|-------|
-| Nolan Sisouphanthong | Diffusion Models for Language | 2025 — | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/nolan-sisouphanthong-804224224) |
-| Joshua Chaz Rivera | Diffusion-Based LLMs | 2025 — | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/joshuacrivera) [<i class="fab fa-github"></i>](https://github.com/JoshuaCRivera) |
-| Jonathan Lys | LLMs & Diversity | 2024 —  | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=heUq7WEAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/jonathan-lys) [<i class="fab fa-github"></i>](https://github.com/jonathanlys01) |
+| Nolan Sisouphanthong | Diffusion Models for Language | 2025 — 2028 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/nolan-sisouphanthong-804224224) |
+| Joshua Chaz Rivera | Diffusion-Based LLMs | 2025 — 2028 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/joshuacrivera) [<i class="fab fa-github"></i>](https://github.com/JoshuaCRivera) |
+| Jonathan Lys | LLMs & Diversity | 2024 — 2027 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=heUq7WEAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/jonathan-lys) [<i class="fab fa-github"></i>](https://github.com/jonathanlys01) |
 | Dubon Rodrigue | AI for District Heating Networks | 2022  —  2025 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=dn0h91gAAAAJ) [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/dubonr) [<i class="fab fa-github"></i>](https://github.com/drod-96) |
-| Yassine El Ouahidi | Deep Learning for BCI | 2021 — 2025 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=BGZsbNgAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/elouahidi-y) [<i class="fab fa-github"></i>](https://github.com/elouayas) |
+| Yassine El Ouahidi | Deep Learning for BCI | 2021 — 2024 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=BGZsbNgAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/elouahidi-y) [<i class="fab fa-github"></i>](https://github.com/elouayas) |
 | Yassir Bendou | Few-Shot Image Classification | 2021 — 2024 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=Hfzg6rcAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/yassir-bendou) [<i class="fab fa-github"></i>](https://github.com/ybendou) |
 | Fred Michael Gonsalves | ML for Cruise Ship Energy Efficiency | 2020 — 2023 | [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/fred-gonsalves) |
 | Maryam Karimi-Mamaghan | Metaheuristics & ML Hybridization | 2019 — 2022 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=2-pxgrcAAAAJ) [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/maryamkarimi93) |
@@ -82,9 +82,9 @@ My research interests include (but are not limited to):
 
 | Name | Topic | Year | Links |
 |------|-------|------|-------|
-| Yahia Bellouche | CTEPH Prediction & Coronary Analysis | 2024 — | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/yahia-bellouche-259b19237) |
-| Amine El Ouahidi | TAVI Pacemaker Implantation Prediction | 2023 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=rAbVJGUAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/amine-el-ouahidi-9bb726240) |
-| Victor Quéré | Stroke Mortality Prediction | 2021 | [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/victor-qu%C3%A9r%C3%A9-21502781) |
+| Yahia Bellouche | ML for Fluids Dynamics in Cardiology | 2024 — 2026 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/yahia-bellouche-259b19237) |
+| Amine El Ouahidi | TAVI Pacemaker Implantation Prediction | 2022 — 2023 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=rAbVJGUAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/amine-el-ouahidi-9bb726240) |
+| Victor Quéré | Stroke Mortality Prediction | 2020 — 2021 | [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/victor-qu%C3%A9r%C3%A9-21502781) |
 
 ### Post-Doctoral Researchers
 
@@ -101,34 +101,6 @@ My research interests include (but are not limited to):
 |------|-------|--------|-------|
 | Manon Renault | Embedded Deep Learning for Sensors | 2023 — 2025 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/manon-renault-pro) [<i class="fab fa-github"></i>](https://github.com/mrenault07) |
 | Mervyn Guillou | AI for Hyperfrequency Components | 2021 — 2023 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/mervyn-guillou-90b96b244) |
-
-### Interns
-
-| Name | Topic | Period | Links |
-|------|-------|--------|-------|
-| Anatole Lehé | DPP Sampling in Genetic Algorithms | 2023 — 2024 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/anatole-leh%C3%A9-323b102a4) |
-| Jonathan Lys | Adaptation of Segmentation Models | 2023 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=heUq7WEAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/jonathan-lys/fr) [<i class="fab fa-github"></i>](https://github.com/jonathanlys01) |
-| Frederic Lin | Segment Anything Model Extension | 2023 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/frederic-lin-b00a63222) [<i class="fab fa-github"></i>](https://github.com/frdlin) |
-| Zakaria El Ouahidi | Real-Time EEG Decoding for BCI | 2023 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/zakaria-el-ouahidi-76045325b) |
-| Nathan Darjana | 3D Segmentation of CT Scanner Heart Imaging | 2022 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/nathan-darjana-67062720a) |
-| Maëlle Gabens | Pruning for Graph Signal Sampling | 2022 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/ma%C3%ABlle-gabens-a728b2209) |
-| Amine El Ouahidi | ML for Post-TAVI Risk Prediction | 2022 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=rAbVJGUAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/amine-el-ouahidi-9bb726240) |
-| Marc Serre | Adversarial Classes in Few-Shot Problems | 2021 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/marc-serre-bb4480204) |
-| Gaspard Canevet | Reinforcement Learning in Metaheuristics | 2021 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/gaspard-canevet) |
-| Victor Quéré | ML for ICH Early Mortality Prediction | 2020 | [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/victor-qu%C3%A9r%C3%A9-21502781) |
-| Matis Feller | Study of Cell Repartition in Tumors | 2020 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/matis-feller-077a52140) |
-| Clément Ribes | Spatio-Temporal Signals with GSP | 2020 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/clement-ribes) |
-| Yassine El Ouahidi | Study of Cell Repartition in Tumors | 2020 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=BGZsbNgAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/elouahidi-y) [<i class="fab fa-github"></i>](https://github.com/elouayas) |
-| Ali Dadras | Classification of Patterns in Time Series | 2018 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=49FKi3gAAAAJ) |
-| Wenqi Shu-Quartier-dit-Maire | Classification of Cancer Types from Medical Images | 2018 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/wshuquar) |
-| Houda Abichou | Spectral Graph Theory | 2017 | |
-| Martin Dornier | BCI for Hand Movement Classification | 2016 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.fr/citations?user=a40ixbMAAAAJ) [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/martin-dornier-465b16119) |
-| Ladislas Ducerf | ML and GSP | 2016 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/ladislas-ducerf) |
-| Guillaume Buret | Hacking the PyRat Platform | 2016 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/guillaume-buret-a715ab44) [<i class="fab fa-github"></i>](https://github.com/thebigtouffe) |
-| Loïc Carr | ML for Object Recognition in Images | 2016 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/loic-carr) [<i class="fab fa-github"></i>](https://github.com/dimtion) |
-| Axel Kerinec | Spatio-Temporal Pattern Detection | 2016 | [<i class="fab fa-github"></i>](https://axelkrnc.github.io) |
-| Khalid Aitelamine | Graph Signal Processing for Classification | 2015 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/khalid-aitelamine-072731107) |
-| Chiraz Nafouki | Visualization of Signal Diffusion on Graphs | 2015 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/chiraz-nafouki-b03027a4) |
 
 ## Scientific Dissemination
 

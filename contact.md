@@ -12,8 +12,7 @@ title: Contact
 
 I'm always happy to discuss research collaborations, student projects, or any questions about my work!
 
-Interested in working with me? If you're looking for an internship, PhD position, or project supervision, feel free to contact me with your CV and research interests!
-
+Looking for an internship, PhD position, or project supervision? Feel free to contact me!
 
 <div class="contact-info">
   <a href="mailto:bastien.pasdeloup@imt-atlantique.fr" class="contact-item">
@@ -52,7 +51,7 @@ Interested in working with me? If you're looking for an internship, PhD position
     </div>
     <div class="contact-details">
       <h3>Research Team</h3>
-      <p>BRAIN (BRoader AI)</p>
+      <p>BRAIN</p>
     </div>
   </a>
   
@@ -104,21 +103,9 @@ Interested in working with me? If you're looking for an internship, PhD position
   <p style="margin-top: 1rem;">
     Technopôle Brest-Iroise<br>
     CS 83818<br>
-    29238 Brest Cedex 3<br>
+    29238 Brest Cedex 03<br>
     France
   </p>
-</div>
-
-## Research Collaboration
-
-I am open to collaborations in the following areas:
-
-- **Graph Signal Processing** — Novel operators, applications, and theoretical foundations
-- **Machine Learning** — Deep learning on irregular domains, audio/music applications
-- **Educational Technology** — Innovative tools for teaching computer science
-
-<div class="highlight-box">
-  <p>🎓 <strong>For Students:</strong> If you're interested in an internship or thesis supervision in signal processing, machine learning, or audio analysis, please send me an email with your CV and a brief description of your interests.</p>
 </div>
 
 ## Other Profiles
