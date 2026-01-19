@@ -32,11 +32,3 @@ I am involved in numerous teaching activities at IMT Atlantique, including cours
 | 2018 — 2019 | Post-Doctoral Researcher<br />Graph Signal Processing for Oncology | LTS4, EPFL<br />Lausanne, Switzerland |
 | 2015 — 2017 | PhD Student<br />AI & Graph Signal Processing [<i class="fas fa-book"></i>](https://theses.hal.science/tel-01708824) | IMT Atlantique<br />Brest, France |
 | 2012 — 2015 | Research Master<br />Computer Science | ENS Rennes & University of Rennes 1<br />Rennes, France |
-
-## Contact
-
-📧 bastien.pasdeloup@imt-atlantique.fr  
-📞 +33 2 29 00 15 65  
-📍 IMT Atlantique, Technopôle Brest-Iroise, 29238 Brest, France
-
-→ See the [Contact page](/contact) for more details.

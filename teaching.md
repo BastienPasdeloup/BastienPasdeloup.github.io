@@ -73,7 +73,8 @@ My courses cover both **technical skills** (computer science, AI, machine learni
         <span class="algo-tag">DFS</span>
         <span class="algo-tag">Dijkstra</span>
         <span class="algo-tag">TSP</span>
-        <span class="algo-tag">Greedy</span>
+        <span class="algo-tag">Heuristics</span>
+        <span class="algo-tag">Solvers</span>
         <span class="algo-tag">RL</span>
       </div>
     </div>
@@ -93,6 +94,9 @@ My courses cover both **technical skills** (computer science, AI, machine learni
       </a>
       <a href="https://pypi.org/project/pyrat-game/" class="pyrat-btn">
         <i class="fab fa-python"></i> PyPI
+      </a>
+      <a href="https://hub.imt-atlantique.fr/ueinfo-fise1a/s5/project/" class="pyrat-btn">
+        <i class="fab fa-python"></i> Course
       </a>
     </div>
     <div class="pyrat-presentations">
@@ -134,9 +138,9 @@ My courses cover both **technical skills** (computer science, AI, machine learni
 | Khalid Aitelamine | Graph Signal Processing for Classification | 2015 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/khalid-aitelamine-072731107) |
 | Chiraz Nafouki | Visualization of Signal Diffusion on Graphs | 2015 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/chiraz-nafouki-b03027a4) |
 
-### Student Projects
+### Student Projects
 
-- **29 student projects** proposed and supervised (Bachelor 3 to Master 2)
+- **29 student projects** proposed and supervised (Bachelor 2 to Master 2)
 - **3 industry partnered projects** tutored (Master 1 & 2)
 - **4 end-of-study internship** tutored (Master 2)
 - **2 apprenticeship students** tutored (engineering curriculum)
