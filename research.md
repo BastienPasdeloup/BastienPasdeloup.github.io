@@ -142,11 +142,11 @@ I regularly participate in scientific dissemination activities to promote scienc
   <div class="slideshow-container">
     <div class="slide active">
       <img src="/assets/img/dissemination/amine_prix.png" alt="Prix de la recherche clinique">
-      <div class="slide-caption">Prix de la recherche clinique 2022 pour Amine El Ouahidi</div>
+      <div class="slide-caption">Prix de la recherche clinique 2022 aux Capucins, Brest, pour Amine El Ouahidi</div>
     </div>
     <div class="slide">
       <img src="/assets/img/dissemination/bastien_gretsi.jpg" alt="Label recherche reproductible">
-      <div class="slide-caption">Label recherche reproductible au GRETSI 2025</div>
+      <div class="slide-caption">Médaille d'argent "recherche reproductible" au GRETSI 2025</div>
     </div>
     <div class="slide">
       <img src="/assets/img/dissemination/bastien_ecole.jpeg" alt="Un chercheur à l'école">

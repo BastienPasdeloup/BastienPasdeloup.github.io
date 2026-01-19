@@ -22,6 +22,15 @@ I am involved in numerous teaching activities at IMT Atlantique, including cours
 
 → See the [Teaching page](/teaching) for courses and educational projects.
 
+## Brief CV
+
+| Period | Position | Institution |
+|--------|----------|-------------|
+| 2019 — present | Associate Professor | BRAIN, IMT Atlantique & Lab-STICC, Brest, France |
+| 2018 — 2019 | Post-Doctoral Researcher | LTS4, EPFL, Lausanne, Switzerland |
+| 2015 — 2017 | PhD in Graph Signal Processing [<i class="fas fa-book"></i>](https://theses.hal.science/tel-01708824) | IMT Atlantique, Brest, France |
+| 2012 — 2015 | Research Master in Computer Science | ENS Rennes & University of Rennes 1, Rennes, France |
+
 ## Contact
 
 📧 bastien.pasdeloup@imt-atlantique.fr  
