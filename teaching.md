@@ -25,7 +25,7 @@ My courses cover both **technical skills** (computer science, AI, machine learni
   
   <div class="course-card">
     <h3>🖥️ Computer Science</h3>
-    <div class="course-info">Licence 3</div>
+    <div class="course-info">Bachelor 3</div>
     <p>Introduction to computer science fundamentals for third-year undergraduate students.</p>
   </div>
   
@@ -36,9 +36,7 @@ My courses cover both **technical skills** (computer science, AI, machine learni
   </div>
 </div>
 
-**Courses:** Informatique (L3), Data Science Track (M1/M2), Introduction to AI (M1/M2), How to Lie with Statistics (M1/M2), Introduction à la Recherche (M1/M2), Advanced Machine Learning (M1/M2), Statistical Learning and Sparsity (M1/M2)
-
-**Past courses:** Algorithmique & Mathématiques Discrètes (L3), Fundamentals of Machine Learning (M1/M2), Systèmes en Réseaux (L3), Advanced Data Mining (M1/M2), Gestion de Projet (M1/M2), Business Intelligence (M1/M2), Majeure Informatique (M1/M2), Traitement du Signal (L1)
+**Current courses:** Computer Science (Bachelor 3), Data Science Track (Master 1 & 2), Introduction to AI (Master 1 & 2), How to Lie with Statistics (Master 1 & 2), Introduction to Research (Master 1 & 2)
 
 ## Featured Project: PyRat 🐀
 
@@ -53,18 +51,10 @@ My courses cover both **technical skills** (computer science, AI, machine learni
   
       <p><strong>Impact:</strong></p>
       <ul>
-        <li>Used at IMT Atlantique since 2015</li>
+        <li>Used at IMT Atlantique since 2015 (~400 students/year)</li>
         <li>Presented at <a href="https://www.pycon.fr/2016/pages/programme.html#PyRat%20-%20Un%20jeu%20pour%20l'apprentissage%20de%20l'informatique%20en%20Python" target="_blank">PyConFr 2016</a> and <a href="https://colloque-pedagogie.org/assets/actes/Actes_QPES_2017_Grenoble.pdf" target="_blank">QPES 2017</a> conferences</li>
         <li>Open source with active development</li>
       </ul>
-  
-      <div class="course-tags" style="margin: 1rem 0;">
-        <span class="tag">Python</span>
-        <span class="tag">Algorithms</span>
-        <span class="tag">Graph Theory</span>
-        <span class="tag">Game-based Learning</span>
-        <span class="tag">AI</span>
-      </div>
   
       <p><strong>Algorithms covered:</strong> BFS, DFS, Dijkstra, TSP Solving, Greedy Algorithms, Reinforcement Learning</p>
     </div>
@@ -98,24 +88,3 @@ My courses cover both **technical skills** (computer science, AI, machine learni
 - 🎓 **4 end-of-study internship tutorships**
 - 👩‍🎓 **2 apprenticeship students** (engineering curriculum)
 - 📋 **17+ short internships** (L2 to M2, 2015-2024)
-
-### Graduate Students
-
-I welcome motivated students interested in:
-
-- 🤖 **AI & Machine Learning** — Few-shot learning, LLMs, foundation models
-- 🧠 **Neuroimaging** — EEG/fMRI analysis, brain-computer interfaces
-- 🏥 **Healthcare AI** — Medical image analysis, clinical prediction
-- 📊 **Data Science** — Time series, optimization, decision support
-
-<div class="highlight-box">
-  <p>📧 <strong>Interested in working with me?</strong> If you're looking for an internship, PhD position, or project supervision, feel free to <a href="/contact">contact me</a> with your CV and research interests!</p>
-</div>
-
-## Science Outreach
-
-I am committed to sharing scientific knowledge with the public:
-
-- 🌙 **Nuit Européenne des Chercheur·e·s** — Annual participation since 2019
-- 🔬 **Fête de la Science** — Participation since 2024
-- 🏫 **Une Chercheure à l'École** — Workshops in 9 CM1/CM2 classes across 7 schools in Finistère (2025)

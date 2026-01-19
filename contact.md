@@ -10,7 +10,10 @@ title: Contact
 
 ## Let's Connect!
 
-I'm always happy to discuss research collaborations, student projects, or any questions about my work.
+I'm always happy to discuss research collaborations, student projects, or any questions about my work!
+
+Interested in working with me? If you're looking for an internship, PhD position, or project supervision, feel free to contact me with your CV and research interests!
+
 
 <div class="contact-info">
   <a href="mailto:bastien.pasdeloup@imt-atlantique.fr" class="contact-item">
