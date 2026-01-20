@@ -4,7 +4,66 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-  <meta name="description" content="{{ site.description }}">
+  
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="keywords" content="Bastien Pasdeloup, IMT Atlantique, machine learning, deep learning, artificial intelligence, graph signal processing, researcher, associate professor, data science, Brest, France">
+  <meta name="author" content="{{ site.author.name }}">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}">
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:image" content="{{ site.url }}/assets/img/profile.jpg">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:site_name" content="{{ site.title }}">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@BastPasdeloup">
+  <meta name="twitter:creator" content="@BastPasdeloup">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}">
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:image" content="{{ site.url }}/assets/img/profile.jpg">
+  
+  <!-- Structured Data (JSON-LD) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Bastien Pasdeloup",
+    "jobTitle": "Associate Professor (Maître de Conférences)",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "IMT Atlantique",
+      "url": "https://www.imt-atlantique.fr/"
+    },
+    "url": "{{ site.url }}",
+    "sameAs": [
+      "{{ site.scholar }}",
+      "{{ site.linkedin }}",
+      "{{ site.github }}",
+      "{{ site.twitter }}"
+    ],
+    "email": "{{ site.author.email }}",
+    "image": "{{ site.url }}/assets/img/profile.jpg",
+    "alumniOf": [
+      {
+        "@type": "Organization",
+        "name": "EPFL"
+      },
+      {
+        "@type": "Organization",
+        "name": "ENS Rennes"
+      }
+    ],
+    "knowsAbout": ["Machine Learning", "Deep Learning", "Artificial Intelligence", "Graph Signal Processing", "Data Science"]
+  }
+  </script>
+  
   <link rel="icon" type="image/svg+xml" href="{{ '/assets/img/favicon.svg' | relative_url }}">
   <link rel="apple-touch-icon" href="{{ '/assets/img/favicon.svg' | relative_url }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
