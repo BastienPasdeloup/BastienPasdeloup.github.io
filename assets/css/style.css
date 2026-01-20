@@ -224,11 +224,14 @@ body {
   flex: 1;
   margin-left: var(--sidebar-width);
   padding: 3rem;
+  overflow-x: hidden;
 }
 
 .content-wrapper {
   max-width: 900px;
   margin: 0 auto;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
 }
 
 /* ===== Typography ===== */
@@ -624,6 +627,11 @@ a:hover {
     padding: 1.5rem 1rem;
   }
   
+  .content-wrapper {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+  
   .mobile-nav-toggle {
     display: flex;
     align-items: center;
@@ -637,6 +645,47 @@ a:hover {
   
   .contact-info {
     grid-template-columns: 1fr;
+  }
+  
+  /* Tables responsive */
+  table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    font-size: 0.9rem;
+  }
+  
+  th, td {
+    padding: 0.5rem 0.75rem;
+    white-space: nowrap;
+  }
+  
+  /* Page header responsive */
+  .page-header h1 {
+    font-size: 2rem;
+  }
+  
+  /* Publication links responsive */
+  .publication-links {
+    flex-direction: column;
+  }
+  
+  .publication-link {
+    justify-content: center;
+  }
+  
+  /* Cards responsive */
+  .course-card {
+    padding: 1.25rem;
+  }
+  
+  .course-tags {
+    gap: 0.4rem;
+  }
+  
+  .tag {
+    font-size: 0.75rem;
+    padding: 0.2rem 0.5rem;
   }
 }
 

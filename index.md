@@ -39,6 +39,7 @@ A CV would not be complete without mentioning a few personal interests!
     <p>Been playing since I was 10.</p>
     <div class="course-tags">
       <span class="tag">Duel Commander</span>
+      <span class="tag">Modern</span>
       <span class="tag">Legacy</span>
       <span class="tag">Vintage</span>
     </div>
