@@ -135,6 +135,7 @@ My courses cover both **technical skills** (computer science, AI, machine learni
 | Guillaume Buret | Hacking the PyRat Platform | 2016 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/guillaume-buret-a715ab44) [<i class="fab fa-github"></i>](https://github.com/thebigtouffe) |
 | Loïc Carr | ML for Object Recognition in Images | 2016 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/loic-carr) [<i class="fab fa-github"></i>](https://github.com/dimtion) |
 | Axel Kerinec | Spatio-Temporal Pattern Detection | 2016 | [<i class="fab fa-github"></i>](https://axelkrnc.github.io) |
+| Maëlys Robert | Graph Signal Processing  | 2015 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/maelys-robert) |
 | Khalid Aitelamine | Graph Signal Processing for Classification | 2015 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/khalid-aitelamine-072731107) |
 | Chiraz Nafouki | Visualization of Signal Diffusion on Graphs | 2015 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/chiraz-nafouki-b03027a4) |
 
