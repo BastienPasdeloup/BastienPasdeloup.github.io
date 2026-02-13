@@ -72,6 +72,7 @@ My research interests include (but are not limited to):
 | Nolan Sisouphanthong | Diffusion Models for Language | 2025 — 2028 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/nolan-sisouphanthong-804224224) |
 | Joshua Chaz Rivera | Diffusion-Based LLMs | 2025 — 2028 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/joshuacrivera) [<i class="fab fa-github"></i>](https://github.com/JoshuaCRivera) |
 | Jonathan Lys | LLMs & Diversity | 2024 — 2027 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=heUq7WEAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/jonathan-lys) [<i class="fab fa-github"></i>](https://github.com/jonathanlys01) |
+| Yahia Bellouche | ML for Fluids Dynamics in Cardiology | 2024 — 2026 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/yahia-bellouche-259b19237) |
 | Dubon Rodrigue | AI for District Heating Networks | 2022  —  2025 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=dn0h91gAAAAJ) [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/dubonr) [<i class="fab fa-github"></i>](https://github.com/drod-96) |
 | Yassine El Ouahidi | Deep Learning for BCI | 2021 — 2024 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=BGZsbNgAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/elouahidi-y) [<i class="fab fa-github"></i>](https://github.com/elouayas) |
 | Yassir Bendou | Few-Shot Image Classification | 2021 — 2024 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=Hfzg6rcAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/yassir-bendou) [<i class="fab fa-github"></i>](https://github.com/ybendou) |
@@ -82,7 +83,6 @@ My research interests include (but are not limited to):
 
 | Name | Topic | Year | Links |
 |------|-------|------|-------|
-| Yahia Bellouche | ML for Fluids Dynamics in Cardiology | 2024 — 2026 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/yahia-bellouche-259b19237) |
 | Amine El Ouahidi | TAVI Pacemaker Implantation Prediction | 2022 — 2023 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=rAbVJGUAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/amine-el-ouahidi-9bb726240) |
 | Victor Quéré | Stroke Mortality Prediction | 2020 — 2021 | [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/victor-qu%C3%A9r%C3%A9-21502781) |
 
