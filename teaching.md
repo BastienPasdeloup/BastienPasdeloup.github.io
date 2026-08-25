@@ -114,6 +114,7 @@ My courses cover both **technical skills** (computer science, AI, machine learni
 
 | Name | Topic | Period | Links |
 |------|-------|--------|-------|
+| Rayan Dakhia | Trust Supervision in Agentic AI for Medicine | 2026 — 2027 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/rd982475281) |
 | Anatole Lehé | DPP Sampling in Genetic Algorithms | 2023 — 2024 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/anatole-leh%C3%A9-323b102a4) |
 | Jonathan Lys | Adaptation of Segmentation Models | 2023 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=heUq7WEAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/jonathan-lys/fr) [<i class="fab fa-github"></i>](https://github.com/jonathanlys01) |
 | Frederic Lin | Segment Anything Model Extension | 2023 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/frederic-lin-b00a63222) [<i class="fab fa-github"></i>](https://github.com/frdlin) |

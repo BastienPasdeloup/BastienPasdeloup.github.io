@@ -38,10 +38,17 @@ A CV would not be complete without mentioning a few personal interests!
     <h3>🃏 Magic: The Gathering</h3>
     <p>Been playing since I was 10.</p>
     <div class="course-tags">
-      <span class="tag">Duel Commander</span>
-      <span class="tag">Modern</span>
+      <span class="tag">DC</span>
       <span class="tag">Legacy</span>
       <span class="tag">Vintage</span>
+    </div>
+    <div class="publication-links">
+      <a href="https://bastienpasdeloup.github.io/MtG-Proxy-Printer/" target="_blank" class="publication-link">
+        <i class="fas fa-print"></i> Proxy Printer
+      </a>
+      <a href="https://bastienpasdeloup.github.io/MtG-Goldfish-Simulator/" target="_blank" class="publication-link">
+        <i class="fas fa-dice"></i> Goldfish Simulator
+      </a>
     </div>
   </div>
   
@@ -52,6 +59,11 @@ A CV would not be complete without mentioning a few personal interests!
       <span class="tag">Guitar</span>
       <span class="tag">Singing</span>
       <span class="tag">Synths</span>
+    </div>
+    <div class="publication-links">
+      <a href="https://et-al-bzh.bandcamp.com/" target="_blank" class="publication-link">
+        <i class="fab fa-bandcamp"></i> Et Al. on Bandcamp
+      </a>
     </div>
   </div>
 
