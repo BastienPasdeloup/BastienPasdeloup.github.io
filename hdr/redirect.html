@@ -1,0 +1,251 @@
+---
+permalink: /r/
+sitemap: false
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex, nofollow">
+    <title>Redirection</title>
+    <!--
+    Turns a short code into the address it stands for, each code standing for an
+    @online entry of the bibliography of my HDR (here, "microsoft_ai_readiness"):
+
+        https://bastienpasdeloup.github.io/r/?mar
+
+    The manuscript then carries that short form in the "url" field of the entry,
+    so that its QR code stays coarse enough to be scanned, while the address it
+    stands for lives here.
+
+    Adding a resource to the manuscript means adding a line below, holding the
+    code, the key of the entry it stands for, and the address it redirects to.
+    Codes are the initials of the words of the key, lengthened when two of them
+    would collide.
+    Without a key, this page lists every association it knows about.
+-->
+    <script>
+        window.SHORT_LINKS = {
+            "ag": ["action_group", "https://www.action-groupe.org/fr/post/tavi"],
+            "ap": ["arxiv_page", "https://arxiv.org/search/?query=Bastien+Pasdeloup&searchtype=all&abstracts=show&order=-announced_date_first&size=50"],
+            "apf": ["arxiv_page_fr", "https://arxiv.org/search/?query=Bastien+Pasdeloup&searchtype=all&abstracts=show&order=-announced_date_first&size=50"],
+            "ar": ["acrobat_reader", "https://get.adobe.com/reader/"],
+            "as": ["ai_safety", "https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026"],
+            "cha": ["chatgpt", "https://chatgpt.com/"],
+            "cla": ["claude", "https://code.claude.com/docs/en/vs-code"],
+            "cni": ["cnil", "https://www.cnil.fr/fr/le-rgpd-applique-au-secteur-de-la-sante"],
+            "cop": ["copilot", "https://github.com/features/copilot"],
+            "cr13": ["cpge_reform_2013", "https://www.education.gouv.fr/sites/default/files/document/Rapport-IGEN-2014-052_355776.pdf-254829.pdf"],
+            "cr21": ["cpge_reform_2021", "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/imported_files/documents/BOSPE1_MESRI_1378831.pdf"],
+            "cw": ["cern_www", "https://info.cern.ch/hypertext/WWW/TheProject.html"],
+            "dar": ["dartmouth", "https://parhamdata.com/Dartmouth_1955_Proposal_for_AI_Research.pdf"],
+            "def": ["defakator", "https://www.youtube.com/@DefakatorOfficiel"],
+            "dm": ["deepmind_measuring", "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/"],
+            "dner": ["deviantart_neruall", "https://www.deviantart.com/neruall"],
+            "dney": ["deviantart_neyjour", "https://www.deviantart.com/neyjour"],
+            "ea": ["endive_anr", "https://anr.fr/en/funded-projects-and-impact/funded-projects/project/funded/project/b2d9d3668f92a3b9fbbf7866072501ef-b736c71d79/?tx_anrprojects_funded%5Bcontroller%5D=Funded&cHash=77a198b72fb8c5ce74918f5359d7551e"],
+            "eaf": ["endive_anr_fr", "https://anr.fr/fr/projets-finances-et-impact/projets-finances/projet/funded/project/anr-24-ce23-7365/?tx_anrprojects_funded%5Bcontroller%5D=Funded&cHash=77a198b72fb8c5ce74918f5359d7551e"],
+            "ed": ["endive_details", "https://bastienpasdeloup.github.io/hdr/files/pasdeloup_endive.pdf"],
+            "edf": ["endive_details_fr", "https://bastienpasdeloup.github.io/hdr/files/pasdeloup_endive.pdf"],
+            "evi": ["evince", "https://gitlab.gnome.org/GNOME/evince"],
+            "fle": ["fs_leaderboard_easy", "https://few-shot.yyliu.net/fc100.html"],
+            "gdc": ["gdc", "https://portal.gdc.cancer.gov/"],
+            "gdp": ["gdpr", "https://eur-lex.europa.eu/eli/reg/2016/679/oj"],
+            "ge": ["github_education", "https://github.com/education"],
+            "gem": ["gemini", "https://gemini.google.com/"],
+            "gg": ["gnu_gpl", "https://www.gnu.org/licenses/gpl-3.0.en.html"],
+            "glo": ["globalresearch", "https://globalresearchspace.com/space?region=L1_40#5.4/-2.356/60.833/-52.6/30"],
+            "gmi": ["gmilgram", "https://www.youtube.com/@ggmilgram"],
+            "gp": ["github_page", "https://github.com/BastienPasdeloup"],
+            "gpf": ["github_page_fr", "https://github.com/BastienPasdeloup"],
+            "gra": ["graphviz", "https://graphviz.org/docs/layouts/neato/"],
+            "hata": ["huggingface_any_to_any", "https://huggingface.co/models?pipeline_tag=any-to-any"],
+            "hp": ["hal_page", "https://cv.hal.science/bastien-pasdeloup"],
+            "hpf": ["hal_page_fr", "https://cv.hal.science/bastien-pasdeloup"],
+            "ht": ["hdr_template", "https://github.com/BastienPasdeloup/HDR-Template"],
+            "ic": ["ibis_ct", "https://clinicaltrials.gov/study/NCT04253275"],
+            "mar": ["microsoft_ai_readiness", "https://www.microsoft.com/en-us/microsoft-cloud/blog/healthcare/2026/02/12/assessing-healthcares-agentic-ai-readiness-new-research-from-microsoft-and-the-health-management-academy/"],
+            "ms": ["mooncat_studio", "https://www.mooncatstudio.fr/"],
+            "msoa": ["mckinsey_state_of_agents", "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/tech-forward/state-of-ai-trust-in-2026-shifting-to-the-agentic-era"],
+            "oe": ["opencode_easy", "https://opencodepapers-b7572d.gitlab.io/benchmarks/few-shot-image-classification-on-fc100-5-way.html"],
+            "ove": ["overleaf", "https://www.overleaf.com/"],
+            "pm": ["pyrat_mooc", "https://www.edx.org/learn/python/imt-advanced-algorithmics-and-graph-theory-with-python"],
+            "pp": ["pyrat_pypi", "https://pypi.org/project/pyrat-game/"],
+            "sch": ["scholar", "https://scholar.google.fr/citations?user=dKOgoG4AAAAJ"],
+            "si": ["scholar_inbox", "https://www.scholar-inbox.com/"],
+            "sl": ["scholar_labs", "https://scholar.google.com/scholar_labs/search"],
+            "uga": ["uga", "https://www.youtube.com/playlist?list=PLsbx1DYyydS-ie6wXA3Qu5zHLPWhilejW"],
+            "vp": ["vscode_pdf", "https://github.com/mathematic-inc/vscode-pdf"],
+            "vsc": ["vscode", "https://code.visualstudio.com/"],
+            "ws": ["wikipedia_stroke", "https://en.wikipedia.org/wiki/Stroke"],
+        };
+    </script>
+    <style>
+        body {
+            margin: 0 auto;
+            padding: 2rem 1.5rem;
+            max-width: 60rem;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            line-height: 1.5;
+            color: #212121;
+        }
+
+        h1 {
+            font-size: 1.4rem;
+            margin: 0 0 0.5rem;
+        }
+
+        p {
+            margin: 0.4rem 0;
+        }
+
+        a {
+            color: #267CB9;
+            overflow-wrap: anywhere;
+        }
+
+        input {
+            margin: 1.2rem 0 0.6rem;
+            padding: 0.45rem 0.6rem;
+            width: 100%;
+            max-width: 22rem;
+            font: inherit;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            font-size: 0.9rem;
+        }
+
+        th,
+        td {
+            text-align: left;
+            padding: 0.35rem 0.8rem 0.35rem 0;
+            vertical-align: top;
+        }
+
+        th {
+            border-bottom: 1px solid #ddd;
+        }
+
+        td:first-child {
+            white-space: nowrap;
+            font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+        }
+
+        .muted {
+            color: #666;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1 id="heading">Redirection</h1>
+    <p id="message" class="muted">Reading the requested reference&hellip;</p>
+    <div id="listing" hidden>
+        <input id="filter" type="search" placeholder="Filter the references&hellip;" autocomplete="off">
+        <table>
+            <thead>
+                <tr>
+                    <th>Code</th>
+                    <th>Reference</th>
+                    <th>Address</th>
+                </tr>
+            </thead>
+            <tbody id="rows"></tbody>
+        </table>
+    </div>
+
+    <noscript>
+        <p>This page needs JavaScript to redirect. The addresses it knows are in the
+            source of the page.</p>
+    </noscript>
+
+    <script>
+        (function () {
+            var links = window.SHORT_LINKS || {};
+            var heading = document.getElementById("heading");
+            var message = document.getElementById("message");
+            var listing = document.getElementById("listing");
+            var rows = document.getElementById("rows");
+            var filter = document.getElementById("filter");
+
+            // The key is given either as a query ("/r/?key") or as a fragment ("/r/#key"),
+            // both of which scanners and browsers keep as typed
+            var key = decodeURIComponent((location.search || location.hash).slice(1)).trim();
+
+            function link(url, text) {
+                var a = document.createElement("a");
+                a.href = url;
+                a.textContent = text || url;
+                a.rel = "noreferrer";
+                return a;
+            }
+
+            function showListing(keys) {
+                rows.textContent = "";
+                keys.sort().forEach(function (code) {
+                    var row = document.createElement("tr");
+                    var left = document.createElement("td");
+                    var middle = document.createElement("td");
+                    var right = document.createElement("td");
+                    left.appendChild(link("/r/?" + encodeURIComponent(code), code));
+                    middle.textContent = links[code][0];
+                    right.appendChild(link(links[code][1]));
+                    row.appendChild(left);
+                    row.appendChild(middle);
+                    row.appendChild(right);
+                    rows.appendChild(row);
+                });
+                listing.hidden = false;
+            }
+
+            var names = Object.keys(links);
+
+            if (key && Object.prototype.hasOwnProperty.call(links, key)) {
+                // Known reference: leave without adding an entry to the history
+                var target = links[key][1];
+                heading.textContent = "Redirecting";
+                message.textContent = "";
+                message.appendChild(document.createTextNode("Going to "));
+                message.appendChild(link(target));
+                location.replace(target);
+                return;
+            }
+
+            if (key) {
+                heading.textContent = "Unknown code";
+                message.textContent = "No resource is associated with “" + key + "”. "
+                    + "The known codes are listed below.";
+            } else if (names.length) {
+                message.textContent = "Add the code of a resource to the address, "
+                    + "as in /r/?mar, or pick one below.";
+            } else {
+                message.textContent = "No association is defined yet.";
+                return;
+            }
+
+            showListing(names);
+
+            filter.addEventListener("input", function () {
+                var needle = filter.value.toLowerCase();
+                showListing(names.filter(function (code) {
+                    return code.toLowerCase().indexOf(needle) !== -1
+                        || links[code][0].toLowerCase().indexOf(needle) !== -1
+                        || links[code][1].toLowerCase().indexOf(needle) !== -1;
+                }));
+            });
+        })();
+    </script>
+
+</body>
+
+</html>
