@@ -756,6 +756,33 @@ tr:hover {
   background: var(--color-bg-alt);
 }
 
+/* Supervision tables (Name | Topic | Period | Links).
+   width:1% shrinks a column to its content, so the free space all goes to
+   Topic; nowrap then keeps the period on one line and the profile icons
+   together instead of letting them wrap under each other. */
+.supervision-table th:nth-child(3),
+.supervision-table td:nth-child(3),
+.supervision-table th:nth-child(4),
+.supervision-table td:nth-child(4) {
+  width: 1%;
+  white-space: nowrap;
+}
+
+.supervision-table td:nth-child(4) a + a {
+  margin-left: 0.3rem;
+}
+
+/* The sidebar leaves little room between 769px and 900px, which is too narrow
+   for four columns once two of them refuse to wrap: scroll rather than squash.
+   Below 769px the global table rule already takes over. */
+@media (max-width: 900px) {
+  .supervision-table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
 /* ===== Slideshow ===== */
 .slideshow {
   position: relative;

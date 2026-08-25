@@ -139,6 +139,7 @@ My courses cover both **technical skills** (computer science, AI, machine learni
 | Maëlys Robert | Graph Signal Processing  | 2015 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/maelys-robert) |
 | Khalid Aitelamine | Graph Signal Processing for Classification | 2015 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/khalid-aitelamine-072731107) |
 | Chiraz Nafouki | Visualization of Signal Diffusion on Graphs | 2015 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/chiraz-nafouki-b03027a4) |
+{: .supervision-table}
 
 ### Student Projects
 

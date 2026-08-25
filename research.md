@@ -22,7 +22,7 @@ My research interests include (but are not limited to):
 
 ## Selected Publications
 
-- Yassine El Ouahidi, Jonathan Lys, Philipp Thölke, Nicolas Farrugia, Bastien Pasdeloup, Vincent Gripon, Karim Jerbi, and Giulia Lioi (2025). **REVE: A Foundation Model for EEG — Adapting to Any Setup with Large-Scale Pretraining on 25,000 Subjects**. *Annual Conference on Neural Information Processing Systems (NeurIPS)*. [<i class="fas fa-external-link-alt"></i>](https://arxiv.org/pdf/2510.21585)
+- Yassine El Ouahidi, Jonathan Lys, Philipp Thölke, Nicolas Farrugia, Bastien Pasdeloup, Vincent Gripon, Karim Jerbi, and Giulia Lioi (2025). **REVE: A Foundation Model for EEG — Adapting to Any Setup with Large-Scale Pretraining on 25,000 Subjects**. *Annual Conference on Neural Information Processing Systems (NeurIPS)*. [<i class="fas fa-external-link-alt"></i>](https://proceedings.neurips.cc/paper_files/paper/2025/hash/20a917f77773ac0fa8bea2bdd6606b66-Abstract-Conference.html)
 
 - Amine El Ouahidi, Yassine El Ouahidi, Pierre-Philippe Nicol, Sinda Hannachi, Clément Benic, Jacques Mansourati, Bastien Pasdeloup, and Romain Didier (2024). **Machine Learning for Pacemaker Implantation Prediction After TAVI Using Multimodal Imaging Data**. *Nature Scientific Reports*. [<i class="fas fa-external-link-alt"></i>](https://dx.doi.org/10.1038/s41598-024-76128-z)
 
@@ -79,6 +79,7 @@ My research interests include (but are not limited to):
 | Yassir Bendou | Few-Shot Image Classification | 2021 — 2024 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=Hfzg6rcAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/yassir-bendou) [<i class="fab fa-github"></i>](https://github.com/ybendou) |
 | Fred Michael Gonsalves | ML for Cruise Ship Energy Efficiency | 2020 — 2023 | [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/fred-gonsalves) |
 | Maryam Karimi-Mamaghan | Metaheuristics & ML Hybridization | 2019 — 2022 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=2-pxgrcAAAAJ) [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/maryamkarimi93) |
+{: .supervision-table}
 
 ### MD Students
 
@@ -86,6 +87,7 @@ My research interests include (but are not limited to):
 |------|-------|------|-------|
 | Amine El Ouahidi | TAVI Pacemaker Implantation Prediction | 2022 — 2023 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=rAbVJGUAAAAJ) [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/amine-el-ouahidi-9bb726240) |
 | Victor Quéré | Stroke Mortality Prediction | 2020 — 2021 | [<i class="fab fa-linkedin"></i>](https://fr.linkedin.com/in/victor-qu%C3%A9r%C3%A9-21502781) |
+{: .supervision-table}
 
 ### Post-Doctoral Researchers
 
@@ -95,6 +97,7 @@ My research interests include (but are not limited to):
 | Hafsa El Hafyani | Multimodal Image Segmentation | 2022 — 2023 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=u1xtH80AAAAJ) [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/hafsa-el-hafyani-73326940) [<i class="fab fa-github"></i>](https://github.com/helhafyani) |
 | Benham Vahdani | RF Component Design with AI | 2020 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=DfE1R3MAAAAJ) [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/behnam-vahdani-784a0473) |
 | Mounia Hamidouche | Graph-Based Classification | 2020 | [<i class="fas fa-graduation-cap"></i>](https://scholar.google.com/citations?user=mMEdVfoAAAAJ) [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/mounia-hamidouche-4b1388a5) [<i class="fab fa-github"></i>](https://github.com/mouniahamidouche) |
+{: .supervision-table}
 
 ### Research Engineers
 
@@ -102,6 +105,7 @@ My research interests include (but are not limited to):
 |------|-------|--------|-------|
 | Manon Renault | Embedded Deep Learning for Sensors | 2023 — 2025 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/manon-renault-pro) [<i class="fab fa-github"></i>](https://github.com/mrenault07) |
 | Mervyn Guillou | AI for Hyperfrequency Components | 2021 — 2023 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/mervyn-guillou-90b96b244) |
+{: .supervision-table}
 
 ## Scientific Dissemination
 
