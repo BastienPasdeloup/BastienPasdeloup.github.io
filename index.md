@@ -24,10 +24,11 @@ I am involved in numerous teaching activities at IMT Atlantique, including cours
 
 | Period | Position | Institution |
 |--------|----------|-------------|
-| 2019 — present | Associate Professor | BRAIN, IMT Atlantique & Lab-STICC<br />Brest, France |
-| 2018 — 2019 | Post-Doctoral Researcher<br />Graph Signal Processing for Oncology | LTS4, EPFL<br />Lausanne, Switzerland |
-| 2015 — 2017 | PhD Student<br />AI & Graph Signal Processing [<i class="fas fa-book"></i>](https://theses.hal.science/tel-01708824) | IMT Atlantique<br />Brest, France |
-| 2012 — 2015 | Research Master<br />Computer Science | ENS Rennes & University of Rennes 1<br />Rennes, France |
+| 2026 | Habilitation to Supervise Research (HDR) [<i class="fas fa-book"></i>](/hdr/files/pasdeloup_2026_hdr_document.pdf)<br />*Transferring Advances from Modern AI to Healthcare* | BRAIN, IMT Atlantique & Lab-STICC<br />Brest, France |
+| 2019 — present | Associate Professor<br />*AI & Computer Science* | BRAIN, IMT Atlantique & Lab-STICC<br />Brest, France |
+| 2018 — 2019 | Post-Doctoral Researcher<br />*Graph Signal Processing for Oncology* | LTS4, EPFL<br />Lausanne, Switzerland |
+| 2015 — 2017 | PhD [<i class="fas fa-book"></i>](https://theses.hal.science/tel-01708824)<br />*AI & Graph Signal Processing* | IMT Atlantique<br />Brest, France |
+| 2012 — 2015 | Research Master<br />*Computer Science* | ENS Rennes & University of Rennes 1<br />Rennes, France |
 
 ## Hobbies
 

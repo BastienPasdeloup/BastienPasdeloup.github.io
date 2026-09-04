@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ENDIVE
-description: ENDIVE — ENcouraging DIVErsity in learning with few labeled examples. An ANR JCJC project (2024-2028) led by Bastien Pasdeloup at IMT Atlantique, exploring what diversity of data and of representations can bring to modern AI.
+description: ENDIVE — ENcouraging DIVErsity in Few-Shot Learning. An ANR JCJC project (2024-2028) led by Bastien Pasdeloup at IMT Atlantique, exploring what diversity of data and of representations can bring to modern AI.
 permalink: /endive/
 ---
 
