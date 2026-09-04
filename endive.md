@@ -125,7 +125,7 @@ Mechanistic interpretability has become the natural tool for the second axis: sp
       <span class="pub-status">Under review</span>
     </div>
     <h3 class="pub-card-title"><a href="https://arxiv.org/abs/2603.19146" target="_blank">D5P4: Partition Determinantal Point Process for Diversity in Parallel Discrete Diffusion Decoding</a></h3>
-    <p class="pub-card-authors">Jonathan Lys, Vincent Gripon, Axel Marmoret, Lukas Mauch, Fabien Cardinaux, Ghouthi Boukli-Hacene, and <strong>Bastien Pasdeloup</strong></p>
+    <p class="pub-card-authors">Jonathan Lys, Vincent Gripon, Axel Marmoret, Lukas Mauch, Fabien Cardinaux, Ghouthi Boukli-Hacene, and Bastien Pasdeloup</p>
     <p class="pub-card-summary">A decoding framework that generalizes beam search to discrete diffusion language models, which refine whole sequences in parallel instead of extending a prefix. Candidate selection at each diffusion step is cast as MAP inference over a <em>partitioned</em> DPP, whose kernel combines the quality signal carried by the logits with a diversity signal read from the model's own hidden states — so the procedure stays model-internal, with no external verifier. The partition constraint prevents hypotheses from collapsing onto the same trajectory, and the greedy solver's overhead is more than offset by a ~40% cut in peak memory.</p>
     <div class="pub-endive-note">
       <i class="fas fa-link"></i>
@@ -141,7 +141,7 @@ Mechanistic interpretability has become the natural tool for the second axis: sp
       <span class="pub-venue">NeurIPS 2025</span>
     </div>
     <h3 class="pub-card-title"><a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/20a917f77773ac0fa8bea2bdd6606b66-Abstract-Conference.html" target="_blank">REVE: A Foundation Model for EEG — Adapting to Any Setup with Large-Scale Pretraining on 25,000 Subjects</a></h3>
-    <p class="pub-card-authors">Yassine El Ouahidi, Jonathan Lys, Philipp Thölke, Nicolas Farrugia, <strong>Bastien Pasdeloup</strong>, Vincent Gripon, Karim Jerbi, and Giulia Lioi</p>
+    <p class="pub-card-authors">Yassine El Ouahidi, Jonathan Lys, Philipp Thölke, Nicolas Farrugia, Bastien Pasdeloup, Vincent Gripon, Karim Jerbi, and Giulia Lioi</p>
     <p class="pub-card-summary">A foundation model built to absorb the heterogeneity of EEG recordings across electrode layouts, devices, protocols and subjects. A 4D positional encoding represents jointly the 3D location of each electrode and the temporal position of each signal patch, which makes the electrode layout part of the model's input rather than something recordings must be projected onto. Pretrained by masked autoencoding on 60,000+ hours from 92 datasets and ~25,000 subjects, it reaches state-of-the-art results on ten downstream tasks, including under linear probing.</p>
     <div class="pub-endive-note">
       <i class="fas fa-link"></i>
@@ -160,7 +160,7 @@ Mechanistic interpretability has become the natural tool for the second axis: sp
       <span class="pub-venue">EUSIPCO 2026</span>
     </div>
     <h3 class="pub-card-title"><a href="https://arxiv.org/abs/2602.14759" target="_blank">Inner Loop Inference for Pretrained Transformers: Unlocking Latent Capabilities Without Training</a></h3>
-    <p class="pub-card-authors">Jonathan Lys, Vincent Gripon, <strong>Bastien Pasdeloup</strong>, Axel Marmoret, Lukas Mauch, Fabien Cardinaux, and Ghouthi Boukli-Hacene</p>
+    <p class="pub-card-authors">Jonathan Lys, Vincent Gripon, Bastien Pasdeloup, Axel Marmoret, Lukas Mauch, Fabien Cardinaux, and Ghouthi Boukli-Hacene</p>
     <p class="pub-card-summary">A training-free way of spending extra computation at inference time in a frozen transformer, by re-applying a selected range of blocks to the propagated hidden state. Naive looping degrades accuracy — re-executing layers pushes activations off the manifold seen during standard inference — so the contribution is a lightweight regularization interpolating looped states with their non-looped counterparts. With the loop region chosen once, and consistently found at 40–60% of relative depth, the gains are modest but consistent on the Gemma-2 models; pre-norm Llama-3-8B responds more variably.</p>
     <div class="pub-endive-note">
       <i class="fas fa-link"></i>
@@ -177,7 +177,7 @@ Mechanistic interpretability has become the natural tool for the second axis: sp
       <span class="pub-venue">EUSIPCO 2026</span>
     </div>
     <h3 class="pub-card-title"><a href="https://arxiv.org/abs/2602.14760" target="_blank">Residual Connections and the Causal Shift: Uncovering a Structural Misalignment in Transformers</a></h3>
-    <p class="pub-card-authors">Jonathan Lys, Vincent Gripon, <strong>Bastien Pasdeloup</strong>, Axel Marmoret, Lukas Mauch, Fabien Cardinaux, and Ghouthi Boukli-Hacene</p>
+    <p class="pub-card-authors">Jonathan Lys, Vincent Gripon, Bastien Pasdeloup, Axel Marmoret, Lukas Mauch, Fabien Cardinaux, and Ghouthi Boukli-Hacene</p>
     <p class="pub-card-summary">A structural tension in autoregressive transformers: the hidden state at a position is initialized from the <em>current</em> token and carried along by the residual connections, while the supervision target is the <em>next</em> one. Decoding intermediate states through the tied embedding matrix reveals three regimes — early layers decoding to the input sequence, intermediate layers to nothing interpretable, late layers to the one-token-shifted sequence — with the transition deep in the network (around layer 17 of 26 for Gemma-2-2B). A learned gate attenuating the residual branch concentrates on the final layer and outperforms fixed single-layer cuts, which are themselves very sensitive to the chosen layer.</p>
     <div class="pub-endive-note">
       <i class="fas fa-link"></i>
@@ -193,6 +193,8 @@ Mechanistic interpretability has become the natural tool for the second axis: sp
 ## Team &amp; Collaborations
 
 The project is coordinated by **Bastien Pasdeloup** at IMT Atlantique (Lab-STICC, BRAIN team), with the support of **Vincent Gripon**, **Nicolas Farrugia** and **Alexandre Reiffers-Masson**. Expertise on determinantal point processes is brought by **Nicolas Tremblay** (Gipsa-lab, Grenoble) and **Rémi Bardenet** (CRIStAL, Lille).
+
+ENDIVE allowed me to hire the following researchers:
 
 <div class="card-grid">
   <div class="course-card">

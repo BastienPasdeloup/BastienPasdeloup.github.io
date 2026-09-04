@@ -1,64 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 132" role="img" aria-label="A Belgian endive">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="16 6 88 108" role="img" aria-label="A Belgian endive">
   <title>Belgian endive</title>
   <defs>
-    <!-- A witloof head is ivory almost everywhere; only the tips of the leaves
-         keep a pale yellow-green, so the green stops stay in the top tenth of
-         each leaf's own bounding box. -->
+    <!-- Drawn along a vertical axis and then laid down, the way a chicon is
+         photographed: a fat spindle, pointed at the leaf end, blunt at the
+         root end, near-white with a strong yellow-green over the tip third.
+         Every gradient runs along that axis before the rotation. -->
     <linearGradient id="en-body" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#c2d873"/>
-      <stop offset=".11" stop-color="#d8e29d"/>
-      <stop offset=".24" stop-color="#ece7cd"/>
-      <stop offset=".6" stop-color="#ece3c5"/>
-      <stop offset="1" stop-color="#ded2aa"/>
+      <stop offset="0" stop-color="#8cc63c"/>
+      <stop offset=".07" stop-color="#a6d254"/>
+      <stop offset=".17" stop-color="#c9e186"/>
+      <stop offset=".29" stop-color="#e9f2c8"/>
+      <stop offset=".42" stop-color="#f9fcf0"/>
+      <stop offset=".78" stop-color="#f5f9e8"/>
+      <stop offset="1" stop-color="#e5edd3"/>
     </linearGradient>
-    <linearGradient id="en-back" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#b4cb60"/>
-      <stop offset=".13" stop-color="#d0d98e"/>
-      <stop offset=".28" stop-color="#e5deb9"/>
-      <stop offset="1" stop-color="#ddd1a7"/>
+    <linearGradient id="en-outer" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#74b025"/>
+      <stop offset=".1" stop-color="#8fc43c"/>
+      <stop offset=".24" stop-color="#b5d868"/>
+      <stop offset=".42" stop-color="#dcecab"/>
+      <stop offset=".66" stop-color="#f2f7e2"/>
+      <stop offset="1" stop-color="#eef4dc"/>
     </linearGradient>
-    <linearGradient id="en-front" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#cbe07a"/>
-      <stop offset=".1" stop-color="#e6eeae"/>
-      <stop offset=".25" stop-color="#faf7e6"/>
-      <stop offset=".72" stop-color="#f7f1de"/>
-      <stop offset="1" stop-color="#eae0c1"/>
+    <linearGradient id="en-second" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#82bc31"/>
+      <stop offset=".18" stop-color="#a8d24f"/>
+      <stop offset=".45" stop-color="#d9eaa4"/>
+      <stop offset="1" stop-color="#f1f6e0"/>
     </linearGradient>
-    <linearGradient id="en-shoulder" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#c8dd76"/>
-      <stop offset=".12" stop-color="#e8eebb"/>
-      <stop offset=".4" stop-color="#f4eed8"/>
-      <stop offset="1" stop-color="#f4eed8"/>
+    <linearGradient id="en-shade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000" stop-opacity="0"/>
+      <stop offset=".55" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#5f6b3a" stop-opacity=".16"/>
     </linearGradient>
   </defs>
 
-  <!-- The head. Nearly parallel sides over most of the height and a blunt,
-       domed top: that is what separates a chicon from a leaf. -->
-  <path d="M40 10c6 1 12 8 15 22 3 14 4 28 4 48s-1 32-2 38c-7 2-27 2-34 0-1-6-2-18-2-38s1-34 4-48c3-14 9-21 15-22Z"
-        fill="url(#en-body)" stroke="#adbe64" stroke-width="1.5" stroke-linejoin="round"/>
+  <g transform="rotate(-30 60 60)">
+    <!-- the whole head -->
+    <path d="M57 15c-7 11-15 31-16 51-1 16 5 32 13 39 3 2 9 2 12 0 8-7 14-23 13-39-1-20-9-40-16-51-2-2-4-2-6 0Z"
+          fill="url(#en-body)"/>
 
-  <!-- outer leaf seen on the left, wrapping behind the front one -->
-  <path d="M34 14c-5 12-10 30-12 50-2 20-2 40 1 54 3 1 5 1 6 0-2-12-3-32-1-54 2-22 5-42 6-50Z"
-        fill="url(#en-back)" stroke="#bcc87a" stroke-width="1.1" stroke-linejoin="round"/>
+    <!-- the outer leaf wrapped over the front, its edge sweeping from the
+         tip down to the middle of the body -->
+    <path d="M57 15c-7 11-15 31-16 51-1 16 5 32 13 39-3-12-4-27-2-42 2-16 6-33 11-46-2-2-4-2-6-2Z"
+          fill="url(#en-outer)"/>
 
-  <!-- the leaf wrapped over the front, its edge sweeping up to the tip -->
-  <path d="M38 11c7 1 13 8 16 22 3 14 4 28 4 48s-1 31-2 37c-8 2-20 2-27 0-2-12-3-32-1-54 2-22 5-42 10-53Z"
-        fill="url(#en-front)" stroke="#c0cd80" stroke-width="1.1" stroke-linejoin="round"/>
+    <!-- a second leaf tip, shorter, showing behind the first -->
+    <path d="M63 17c4 10 7 24 8 38 1 12 0 23-2 31 1-11 0-24-2-37-2-12-4-23-6-31Z"
+          fill="url(#en-second)" opacity=".9"/>
 
-  <!-- a shorter leaf tip showing on the right shoulder -->
-  <path d="M47 17c5 9 8 21 9 35 1 10 1 18 0 26-2-12-4-30-8-44-1-6-2-13-1-17Z"
-        fill="url(#en-shoulder)" stroke="#c6d287" stroke-width="1" stroke-linejoin="round" opacity=".95"/>
+    <!-- long soft veins fanning from the root end towards the tip -->
+    <g fill="none" stroke="#fff" stroke-linecap="round" opacity=".5">
+      <path d="M54 100c-3-13-4-30-2-46 2-15 5-27 8-36" stroke-width="1.3"/>
+      <path d="M62 101c2-13 3-30 1-45-1-14-3-25-5-33" stroke-width="1.1"/>
+      <path d="M68 96c2-11 2-26 0-39-1-11-3-20-5-27" stroke-width="1"/>
+    </g>
+    <path d="M47 88c-2-11-2-24 0-36" fill="none" stroke="#b9d472" stroke-width="1" stroke-linecap="round" opacity=".55"/>
 
-  <!-- two leaf tips splaying at the crown -->
-  <path d="M34 14c-2 4-3 8-3 12 2-3 4-6 5-9 1-2 0-3-2-3Z" fill="#b8cf67" opacity=".75"/>
-  <path d="M45 13c2 4 4 8 5 13-2-3-5-7-6-10-1-2 0-3 1-3Z" fill="#c1d670" opacity=".7"/>
+    <!-- the root end: cut flush, so a faint crease across the blunt tip -->
+    <path d="M54 104c4 2 8 2 12 0" fill="none" stroke="#cfd9ae" stroke-width="1.4" stroke-linecap="round" opacity=".8"/>
 
-  <!-- veins -->
-  <path d="M42 112c-2-20-2-50 1-80" fill="none" stroke="#e1d8b1" stroke-width="1.4" stroke-linecap="round"/>
-  <path d="M50 110c1-18 2-46 0-66" fill="none" stroke="#e0d6ad" stroke-width="1" stroke-linecap="round" opacity=".7"/>
-  <path d="M35 110c-1-18-1-44 1-62" fill="none" stroke="#ded4a8" stroke-width="1" stroke-linecap="round" opacity=".5"/>
-
-  <!-- the base, cut flush -->
-  <path d="M23 112c10 3 24 3 34 0 1 3 1 7 0 10-10 3-24 3-34 0-1-3-1-7 0-10Z"
-        fill="#dbc796" stroke="#bfa96f" stroke-width="1.2" stroke-linejoin="round"/>
+    <!-- volume down the shaded flank -->
+    <path d="M57 15c-7 11-15 31-16 51-1 16 5 32 13 39 3 2 9 2 12 0 8-7 14-23 13-39-1-20-9-40-16-51-2-2-4-2-6 0Z"
+          fill="url(#en-shade)"/>
+    <path d="M57 15c-7 11-15 31-16 51-1 16 5 32 13 39 3 2 9 2 12 0 8-7 14-23 13-39-1-20-9-40-16-51-2-2-4-2-6 0Z"
+          fill="none" stroke="#a8c95e" stroke-width="1.1" stroke-linejoin="round" opacity=".75"/>
+  </g>
 </svg>
