@@ -47,7 +47,6 @@ permalink: /endive/
       <a href="https://bastienpasdeloup.github.io/r/?eaf" target="_blank" class="project-btn primary"><i class="fas fa-external-link-alt"></i> ANR project page</a>
       <a href="{{ '/hdr/files/pasdeloup_endive.pdf' | relative_url }}" target="_blank" class="project-btn"><i class="fas fa-file-pdf"></i> Project description</a>
       <a href="{{ '/hdr/files/pasdeloup_2024_endive_slides.pdf' | relative_url }}" target="_blank" class="project-btn"><i class="fas fa-display"></i> Kick-off (2024)</a>
-      <a href="{{ '/hdr/files/pasdeloup_2025_endive_slides.pdf' | relative_url }}" target="_blank" class="project-btn"><i class="fas fa-display"></i> Progress (2025)</a>
     </div>
   </div>
 </div>
@@ -119,8 +118,6 @@ Mechanistic interpretability has become the natural tool for the second axis: sp
 
 ## Publications
 
-Each entry below is followed by a short note on how it connects to the project.
-
 <div class="publication">
   <div class="publication-title">
     <a href="https://arxiv.org/abs/2603.19146" target="_blank">D5P4: Partition Determinantal Point Process for Diversity in Parallel Discrete Diffusion Decoding</a>
@@ -180,7 +177,7 @@ Each entry below is followed by a short note on how it connects to the project.
 
 ## Team &amp; Collaborations
 
-The project is coordinated at **IMT Atlantique** (Lab-STICC, BRAIN team), with **Vincent Gripon**, **Nicolas Farrugia** and **Alexandre Reiffers-Masson**. Expertise on determinantal point processes is brought by **Nicolas Tremblay** (Gipsa-lab, Grenoble) and **Rémi Bardenet** (CRIStAL, Lille).
+The project is coordinated by **Bastien Pasdeloup** at IMT Atlantique (Lab-STICC, BRAIN team), with the support of **Vincent Gripon**, **Nicolas Farrugia** and **Alexandre Reiffers-Masson**. Expertise on determinantal point processes is brought by **Nicolas Tremblay** (Gipsa-lab, Grenoble) and **Rémi Bardenet** (CRIStAL, Lille).
 
 <div class="card-grid">
   <div class="course-card">
@@ -193,6 +190,7 @@ The project is coordinated at **IMT Atlantique** (Lab-STICC, BRAIN team), with *
     <h3>Post-doctoral researcher</h3>
     <div class="course-info">18 months &bull; from 2027</div>
     <p>To be recruited, primarily on mechanistic interpretability and the diversity of the features and mechanisms models acquire.</p>
+    <a href="{{ '/contact' | relative_url }}">Contact me &rarr;</a>
   </div>
   <div class="course-card">
     <h3>Master 2 intern</h3>
