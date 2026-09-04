@@ -43,8 +43,8 @@ My research interests include (but are not limited to):
     <h3>ENDIVE</h3>
     <div class="course-info">ANR JCJC • PI</div>
     <div class="course-info">2024 — 2028</div>
-    <p>Encouraging diversity in few-shot learning — Exploring how diversity can improve learning with limited data.</p>
-    <a href="https://anr.fr/Projet-ANR-23-CE23-0030" target="_blank">ANR Project Page →</a>
+    <p>Encouraging diversity in few-shot learning — Exploring how diversity of data and of representations can improve learning with limited data.</p>
+    <a href="{{ '/endive' | relative_url }}">Project Website →</a>
   </div>
 
   <div class="course-card">
