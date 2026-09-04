@@ -118,76 +118,73 @@ Mechanistic interpretability has become the natural tool for the second axis: sp
 
 ## Publications
 
-<div class="pub-list">
-  <article class="pub-card">
-    <div class="pub-card-head">
-      <span class="pub-venue">NeurIPS 2026</span>
-      <span class="pub-status">Under review</span>
+Each card names what the paper does and, more to the point, where it meets the project — as a direct contribution, or as an input to one of the two axes above.
+
+<div class="card-grid pub-grid">
+  <div class="course-card">
+    <h3><a href="https://arxiv.org/abs/2603.19146" target="_blank">D5P4</a></h3>
+    <div class="course-info">NeurIPS 2026 &bull; Under review</div>
+    <p class="pub-fulltitle">Partition Determinantal Point Process for Diversity in Parallel Discrete Diffusion Decoding</p>
+    <p class="pub-people">Lys, Gripon, Marmoret, Mauch, Cardinaux, Boukli-Hacene, <strong>Pasdeloup</strong></p>
+    <p class="pub-does">Generalizes beam search to discrete diffusion models by choosing each step's candidate set with a partitioned DPP.</p>
+    <div class="pub-connection">
+      <span class="pub-connection-label"><i class="fas fa-star"></i> Core contribution</span>
+      <p>ENDIVE's central bet, tested end to end: that a set chosen for relevance <em>and</em> mutual dissimilarity beats one chosen for individual quality. The k-DPP the proposal reserved for picking training examples here picks candidate sequences instead, and the partition constraint is what stops the diversity from collapsing. It also leaves the project a working diversity kernel built from a model's own hidden states — the object the representation axis needs.</p>
     </div>
-    <h3 class="pub-card-title"><a href="https://arxiv.org/abs/2603.19146" target="_blank">D5P4: Partition Determinantal Point Process for Diversity in Parallel Discrete Diffusion Decoding</a></h3>
-    <p class="pub-card-authors">Jonathan Lys, Vincent Gripon, Axel Marmoret, Lukas Mauch, Fabien Cardinaux, Ghouthi Boukli-Hacene, and Bastien Pasdeloup</p>
-    <p class="pub-card-summary">A decoding framework that generalizes beam search to discrete diffusion language models, which refine whole sequences in parallel instead of extending a prefix. Candidate selection at each diffusion step is cast as MAP inference over a <em>partitioned</em> DPP, whose kernel combines the quality signal carried by the logits with a diversity signal read from the model's own hidden states — so the procedure stays model-internal, with no external verifier. The partition constraint prevents hypotheses from collapsing onto the same trajectory, and the greedy solver's overhead is more than offset by a ~40% cut in peak memory.</p>
-    <div class="pub-endive-note">
-      <i class="fas fa-link"></i>
-      <span>The most direct ENDIVE contribution to date: the project's DPP machinery becomes a decoding rule, and diversity is measured in the model's own representation space.</span>
-    </div>
-    <div class="pub-card-links">
+    <div class="pub-links">
       <a href="https://arxiv.org/abs/2603.19146" target="_blank" class="publication-link"><i class="fas fa-file-lines"></i> Preprint</a>
     </div>
-  </article>
+  </div>
 
-  <article class="pub-card">
-    <div class="pub-card-head">
-      <span class="pub-venue">NeurIPS 2025</span>
+  <div class="course-card">
+    <h3><a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/20a917f77773ac0fa8bea2bdd6606b66-Abstract-Conference.html" target="_blank">REVE</a></h3>
+    <div class="course-info">NeurIPS 2025</div>
+    <p class="pub-fulltitle">A Foundation Model for EEG — Adapting to Any Setup with Large-Scale Pretraining on 25,000 Subjects</p>
+    <p class="pub-people">El Ouahidi, Lys, Thölke, Farrugia, <strong>Pasdeloup</strong>, Gripon, Jerbi, Lioi</p>
+    <p class="pub-does">An EEG foundation model whose 4D positional encoding makes the electrode layout an input, pretrained on 92 datasets.</p>
+    <div class="pub-connection">
+      <span class="pub-connection-label"><i class="fas fa-database"></i> Data axis</span>
+      <p>Where the project's reorientation became concrete. Few-shot learning, as the proposal framed it, has become adaptation of a pretrained representation — and REVE is where that shift happened in our own hands. It also handed the project a concrete curation problem: assembling 92 heterogeneous corpora forced choices about which recordings add information rather than merely hours, which is the quality-versus-diversity trade-off of the data axis, on a corpus we control end to end.</p>
     </div>
-    <h3 class="pub-card-title"><a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/20a917f77773ac0fa8bea2bdd6606b66-Abstract-Conference.html" target="_blank">REVE: A Foundation Model for EEG — Adapting to Any Setup with Large-Scale Pretraining on 25,000 Subjects</a></h3>
-    <p class="pub-card-authors">Yassine El Ouahidi, Jonathan Lys, Philipp Thölke, Nicolas Farrugia, Bastien Pasdeloup, Vincent Gripon, Karim Jerbi, and Giulia Lioi</p>
-    <p class="pub-card-summary">A foundation model built to absorb the heterogeneity of EEG recordings across electrode layouts, devices, protocols and subjects. A 4D positional encoding represents jointly the 3D location of each electrode and the temporal position of each signal patch, which makes the electrode layout part of the model's input rather than something recordings must be projected onto. Pretrained by masked autoencoding on 60,000+ hours from 92 datasets and ~25,000 subjects, it reaches state-of-the-art results on ten downstream tasks, including under linear probing.</p>
-    <div class="pub-endive-note">
-      <i class="fas fa-link"></i>
-      <span>The concrete setting in which few-shot learning became foundation model adaptation, and the reason the project reoriented. Assembling 92 heterogeneous datasets also turned data curation into a research question of its own — feeding directly into the data-diversity axis.</span>
-    </div>
-    <div class="pub-card-links">
+    <div class="pub-links">
       <a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/20a917f77773ac0fa8bea2bdd6606b66-Abstract-Conference.html" target="_blank" class="publication-link"><i class="fas fa-file-lines"></i> Paper</a>
-      <a href="https://brain-bzh.github.io/reve/" target="_blank" class="publication-link"><i class="fas fa-code"></i> Code &amp; weights</a>
+      <a href="https://brain-bzh.github.io/reve/" target="_blank" class="publication-link"><i class="fas fa-code"></i> Code</a>
       <a href="{{ '/hdr/files/elouahidi_2025_reve_poster.pdf' | relative_url }}" target="_blank" class="publication-link"><i class="fas fa-image"></i> Poster</a>
       <a href="https://recorder-v3.slideslive.com/?share=106682&amp;s=3ee3f699-040c-423f-9a66-6fb508ea544b" target="_blank" class="publication-link"><i class="fas fa-video"></i> Video</a>
     </div>
-  </article>
+  </div>
 
-  <article class="pub-card">
-    <div class="pub-card-head">
-      <span class="pub-venue">EUSIPCO 2026</span>
+  <div class="course-card">
+    <h3><a href="https://arxiv.org/abs/2602.14759" target="_blank">Inner Loop Inference</a></h3>
+    <div class="course-info">EUSIPCO 2026</div>
+    <p class="pub-fulltitle">Unlocking Latent Capabilities of Pretrained Transformers Without Training</p>
+    <p class="pub-people">Lys, Gripon, <strong>Pasdeloup</strong>, Marmoret, Mauch, Cardinaux, Boukli-Hacene</p>
+    <p class="pub-does">Adds refinement steps to a frozen transformer by re-applying a range of its own blocks, kept on-manifold by a light regularization.</p>
+    <div class="pub-connection">
+      <span class="pub-connection-label"><i class="fas fa-diagram-project"></i> Representation axis</span>
+      <p>A measurement of what depth alone can recover. The project asks whether a pretrained representation already holds what a task needs, and how to reach it without labels or retraining; the answer here is <em>a little, and not uniformly across models</em> — naive looping even hurts. That the fix is interpolating looped with non-looped states says the useful signal is a direction in representation space rather than a new computation, which is what a diversity criterion over features must be defined on.</p>
     </div>
-    <h3 class="pub-card-title"><a href="https://arxiv.org/abs/2602.14759" target="_blank">Inner Loop Inference for Pretrained Transformers: Unlocking Latent Capabilities Without Training</a></h3>
-    <p class="pub-card-authors">Jonathan Lys, Vincent Gripon, Bastien Pasdeloup, Axel Marmoret, Lukas Mauch, Fabien Cardinaux, and Ghouthi Boukli-Hacene</p>
-    <p class="pub-card-summary">A training-free way of spending extra computation at inference time in a frozen transformer, by re-applying a selected range of blocks to the propagated hidden state. Naive looping degrades accuracy — re-executing layers pushes activations off the manifold seen during standard inference — so the contribution is a lightweight regularization interpolating looped states with their non-looped counterparts. With the loop region chosen once, and consistently found at 40–60% of relative depth, the gains are modest but consistent on the Gemma-2 models; pre-norm Llama-3-8B responds more variably.</p>
-    <div class="pub-endive-note">
-      <i class="fas fa-link"></i>
-      <span>Representation axis: it probes how much usable capability already sits latent in a frozen model's residual stream, and can be recovered without touching a single parameter.</span>
-    </div>
-    <div class="pub-card-links">
+    <div class="pub-links">
       <a href="https://arxiv.org/abs/2602.14759" target="_blank" class="publication-link"><i class="fas fa-file-lines"></i> Preprint</a>
       <a href="{{ '/hdr/files/lys_2026_inner_slides.pdf' | relative_url }}" target="_blank" class="publication-link"><i class="fas fa-display"></i> Slides</a>
     </div>
-  </article>
+  </div>
 
-  <article class="pub-card">
-    <div class="pub-card-head">
-      <span class="pub-venue">EUSIPCO 2026</span>
+  <div class="course-card">
+    <h3><a href="https://arxiv.org/abs/2602.14760" target="_blank">The Causal Shift</a></h3>
+    <div class="course-info">EUSIPCO 2026</div>
+    <p class="pub-fulltitle">Residual Connections and the Causal Shift: Uncovering a Structural Misalignment in Transformers</p>
+    <p class="pub-people">Lys, Gripon, <strong>Pasdeloup</strong>, Marmoret, Mauch, Cardinaux, Boukli-Hacene</p>
+    <p class="pub-does">Locates the depth at which hidden states stop encoding the current token and start encoding the next, then attenuates the residual branch there.</p>
+    <div class="pub-connection">
+      <span class="pub-connection-label"><i class="fas fa-diagram-project"></i> Representation axis</span>
+      <p>It gives the representation axis a coordinate it was missing. Asking which features are relevant presumes a place to read features from, and this shows there is no canonical one: the same hidden state decodes to the input early, to nothing interpretable mid-network, and to the prediction late. Any diversity criterion over features therefore has to declare its depth — and D5P4's kernel, reading diversity off hidden states, is exactly such a choice.</p>
     </div>
-    <h3 class="pub-card-title"><a href="https://arxiv.org/abs/2602.14760" target="_blank">Residual Connections and the Causal Shift: Uncovering a Structural Misalignment in Transformers</a></h3>
-    <p class="pub-card-authors">Jonathan Lys, Vincent Gripon, Bastien Pasdeloup, Axel Marmoret, Lukas Mauch, Fabien Cardinaux, and Ghouthi Boukli-Hacene</p>
-    <p class="pub-card-summary">A structural tension in autoregressive transformers: the hidden state at a position is initialized from the <em>current</em> token and carried along by the residual connections, while the supervision target is the <em>next</em> one. Decoding intermediate states through the tied embedding matrix reveals three regimes — early layers decoding to the input sequence, intermediate layers to nothing interpretable, late layers to the one-token-shifted sequence — with the transition deep in the network (around layer 17 of 26 for Gemma-2-2B). A learned gate attenuating the residual branch concentrates on the final layer and outperforms fixed single-layer cuts, which are themselves very sensitive to the chosen layer.</p>
-    <div class="pub-endive-note">
-      <i class="fas fa-link"></i>
-      <span>Representation axis, from the interpretability side: before one can ask which features are worth keeping, one has to know <em>where</em> in the network a representation stops describing the input and starts describing the prediction.</span>
-    </div>
-    <div class="pub-card-links">
+    <div class="pub-links">
       <a href="https://arxiv.org/abs/2602.14760" target="_blank" class="publication-link"><i class="fas fa-file-lines"></i> Preprint</a>
       <a href="{{ '/hdr/files/lys_2026_residual_poster.pdf' | relative_url }}" target="_blank" class="publication-link"><i class="fas fa-image"></i> Poster</a>
     </div>
-  </article>
+  </div>
 </div>
 
 ## Team &amp; Collaborations
