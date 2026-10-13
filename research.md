@@ -104,7 +104,7 @@ My research interests include (but are not limited to):
 | Name | Topic | Period | Links |
 |------|-------|--------|-------|
 | Manon Renault | Embedded Deep Learning for Sensors | 2023 — 2025 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/manon-renault-pro) [<i class="fab fa-github"></i>](https://github.com/mrenault07) |
-| Mervyn Guillou | AI for Hyperfrequency Components | 2021 — 2023 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/mervyn-guillou-90b96b244) |
+| Mervyn Guillou | AI for Hyperfrequency Components | 2021 — 2023 | [<i class="fab fa-linkedin"></i>](https://www.linkedin.com/in/mervyn-guillou/) |
 {: .supervision-table}
 
 ## Scientific Dissemination
