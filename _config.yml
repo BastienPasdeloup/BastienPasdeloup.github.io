@@ -35,3 +35,15 @@ twitter: https://x.com/BastPasdeloup
 # Build settings
 markdown: kramdown
 highlighter: rouge
+
+# Preserve Jekyll's default exclusions and omit unlinked archives and videos.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - hdr/files/*.zip
+  - hdr/files/*.mp4
