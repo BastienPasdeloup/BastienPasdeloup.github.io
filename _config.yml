@@ -36,7 +36,14 @@ twitter: https://x.com/BastPasdeloup
 markdown: kramdown
 highlighter: rouge
 
-# Exclude unlinked downloadable archives and videos from the Pages artifact.
+# Preserve Jekyll's default exclusions and omit unlinked archives and videos.
 exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
   - hdr/files/*.zip
   - hdr/files/*.mp4
