@@ -35,3 +35,8 @@ twitter: https://x.com/BastPasdeloup
 # Build settings
 markdown: kramdown
 highlighter: rouge
+
+# Exclude unlinked downloadable archives and videos from the Pages artifact.
+exclude:
+  - hdr/files/*.zip
+  - hdr/files/*.mp4
